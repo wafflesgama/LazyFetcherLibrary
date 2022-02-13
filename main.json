@@ -1,0 +1,8 @@
+{
+  "pools": [
+    {
+      "PoolName": "general",
+      "PoolItems": [ "driveway", "fence", "house", "path", "tree" ]
+    }
+  ]
+}
