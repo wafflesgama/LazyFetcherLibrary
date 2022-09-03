@@ -1,0 +1,85 @@
+{
+  "Id": "general",
+  "Items": [
+    {
+      "Id": "cat",
+      "TypeIds": [
+        "long",
+        "short"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "driveway",
+      "TypeIds": [
+        "long",
+        "short"
+      ],
+      "Tags": [
+        "road",
+        "drive",
+        "street"
+      ]
+    },
+    {
+      "Id": "fence",
+      "TypeIds": [
+        "large",
+        "medium",
+        "open",
+        "rectangle",
+        "short",
+        "small",
+        "wide"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "house",
+      "TypeIds": [
+        "type01",
+        "type02",
+        "type03",
+        "type04",
+        "type05",
+        "type06",
+        "type07",
+        "type08",
+        "type09",
+        "type10",
+        "type11",
+        "type12",
+        "type13",
+        "type14",
+        "type15",
+        "type16",
+        "type17",
+        "type18",
+        "type19",
+        "type20",
+        "type21"
+      ],
+      "Tags": [
+        "home"
+      ]
+    },
+    {
+      "Id": "path",
+      "TypeIds": [
+        "long",
+        "short",
+        "tilesLong",
+        "tilesShort"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "tree",
+      "TypeIds": [
+        "large",
+        "small"
+      ],
+      "Tags": []
+    }
+  ]
+}
