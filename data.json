@@ -2,24 +2,419 @@
   "Id": "general",
   "Items": [
     {
-      "Id": "cat",
+      "Id": "AdSign",
       "TypeIds": [
-        "long",
-        "short"
+        "Clear",
+        "Map"
       ],
       "Tags": []
     },
     {
-      "Id": "driveway",
+      "Id": "AidKit",
       "TypeIds": [
-        "long",
-        "short"
+        "Medium",
+        "Small"
       ],
-      "Tags": [
-        "road",
-        "drive",
-        "street"
-      ]
+      "Tags": []
+    },
+    {
+      "Id": "Apple",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ATM",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Axe",
+      "TypeIds": [
+        "Small",
+        "SmallFire"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "BabyBottle",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Bacon",
+      "TypeIds": [
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Baguette",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "BalloonGlass",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Banana",
+      "TypeIds": [
+        "Pack",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Bandage",
+      "TypeIds": [
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Battery",
+      "TypeIds": [
+        "AA",
+        "AAA",
+        "C"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "BeerGlass",
+      "TypeIds": [
+        "Filled"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "BigDumpster",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "BigIsland",
+      "TypeIds": [
+        "Simple1"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "BigPineTree",
+      "TypeIds": [
+        "Medium1"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "BigPot",
+      "TypeIds": [
+        "Medium",
+        "Tall"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Blackberry",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Bollard",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "BreadLoaf",
+      "TypeIds": [
+        "Half",
+        "Regular",
+        "Slice"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "BrickWall",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "BrokenGlass",
+      "TypeIds": [
+        "Type1",
+        "Type2",
+        "Type3"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Burger",
+      "TypeIds": [
+        "Double",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Cactus",
+      "TypeIds": [
+        "double",
+        "quad",
+        "single",
+        "tall"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Cake",
+      "TypeIds": [
+        "Regular",
+        "Slice",
+        "Slice"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "CargoContainer",
+      "TypeIds": [
+        "Large",
+        "Small"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "CheeseWheel",
+      "TypeIds": [
+        "Cutted",
+        "Slice"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Cherry",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ChickenThigh",
+      "TypeIds": [
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "CigarreteEnd",
+      "TypeIds": [
+        "Type1",
+        "Type2",
+        "Type3",
+        "Type4",
+        "Type5"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "CinderBlock",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ClawTrap",
+      "TypeIds": [
+        "Closed",
+        "Open"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Cliff",
+      "TypeIds": [
+        "Complex1",
+        "Complex2",
+        "Complex3",
+        "Complex4",
+        "Simple1",
+        "Simple2",
+        "Simple3",
+        "Simple4"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "CocktailGlass",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "CoffeeMug",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Coin",
+      "TypeIds": [
+        "Dollar",
+        "Simple",
+        "Stripe"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ColoredDonut",
+      "TypeIds": [
+        "Bitten",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Compass",
+      "TypeIds": [
+        "Closed",
+        "Opened"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ConcreteBench",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ConcreteWall",
+      "TypeIds": [
+        "Tall"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ConeIceCream",
+      "TypeIds": [
+        "Chocolate",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Cookie",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Corn",
+      "TypeIds": [
+        "Dashed",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "CrystalCluster",
+      "TypeIds": [
+        "Medium1",
+        "Medium2",
+        "Medium3",
+        "Medium4",
+        "Medium5",
+        "Medium6",
+        "Medium7",
+        "Medium8"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Cucumber",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "CurvedTrafficLight",
+      "TypeIds": [
+        "Double",
+        "DoubleSign",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Donut",
+      "TypeIds": [
+        "Bitten",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "DrinkingFountain",
+      "TypeIds": [
+        "Empty",
+        "LargeEmpty"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Dumpster",
+      "TypeIds": [
+        "Closed",
+        "Open"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Egg",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ElectricBox",
+      "TypeIds": [
+        "Double",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ElectricPole",
+      "TypeIds": [
+        "Cables",
+        "Regular"
+      ],
+      "Tags": []
     },
     {
       "Id": "fence",
@@ -31,6 +426,174 @@
         "short",
         "small",
         "wide"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "FireHydrant",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Fireplace",
+      "TypeIds": [
+        "Baseless",
+        "Empty",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "FlareGun",
+      "TypeIds": [
+        "Short"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Flaslight",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "FoodCan",
+      "TypeIds": [
+        "Branded",
+        "Damaged",
+        "Opened",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Fountain",
+      "TypeIds": [
+        "Empty",
+        "Filled"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "FriedEgg",
+      "TypeIds": [
+        "Medium",
+        "Medium2",
+        "Medium3"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Fries",
+      "TypeIds": [
+        "Regular",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "GarbageBag",
+      "TypeIds": [
+        "Type1",
+        "Type2",
+        "Type3"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "GasBottle",
+      "TypeIds": [
+        "Long",
+        "Short"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "GasCan",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "GasPump",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "GiftBox",
+      "TypeIds": [
+        "Large",
+        "Medium",
+        "Small"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "GlazedDonut",
+      "TypeIds": [
+        "Bitten",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Gum",
+      "TypeIds": [
+        "Type1",
+        "Type2",
+        "Type3",
+        "Type4",
+        "Type5"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Gummybear",
+      "TypeIds": [
+        "Bitten",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "HandSuitcase",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "HexTrafficSign",
+      "TypeIds": [
+        "Regular",
+        "Sign"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "HomeTrashcan",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "HoneyPot",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "HotdogStand",
+      "TypeIds": [
+        "Regular"
       ],
       "Tags": []
     },
@@ -64,12 +627,861 @@
       ]
     },
     {
-      "Id": "path",
+      "Id": "InfoSign",
       "TypeIds": [
-        "long",
-        "short",
-        "tilesLong",
-        "tilesShort"
+        "Clear",
+        "Written"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Island",
+      "TypeIds": [
+        "Simple1",
+        "Simple2",
+        "Simple3",
+        "Simple4"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "JuiceBottle",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "JuiceGlass",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Kettle",
+      "TypeIds": [
+        "Medium",
+        "Small"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Knife",
+      "TypeIds": [
+        "Straight"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Leek",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Lemon",
+      "TypeIds": [
+        "Regular",
+        "Sliced"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Lettuce",
+      "TypeIds": [
+        "Medium",
+        "Medium2",
+        "Medium3"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "LightPole",
+      "TypeIds": [
+        "Double",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Locker",
+      "TypeIds": [
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Lollipop",
+      "TypeIds": [
+        "Bump",
+        "Round",
+        "Swirl"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "LosangTrafficSign",
+      "TypeIds": [
+        "Regular",
+        "Sign"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Mailbox",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Match",
+      "TypeIds": [
+        "Lit",
+        "Unlit"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Matchbox",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "MediumTrafficLight",
+      "TypeIds": [
+        "DoubleOposite",
+        "OpositeSide",
+        "SameSide"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "MenuSign",
+      "TypeIds": [
+        "Clear"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "MetalBarrel",
+      "TypeIds": [
+        "Short",
+        "Tall"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "MetalBarrier",
+      "TypeIds": [
+        "Half",
+        "Pillar",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "MetalDirectionSign",
+      "TypeIds": [
+        "Type1",
+        "Type2",
+        "Type3",
+        "Type4"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "MetalGridFence",
+      "TypeIds": [
+        "Damaged",
+        "Normal",
+        "Simple"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "MetalSpikeFence",
+      "TypeIds": [
+        "CurveDown",
+        "CurveUp",
+        "Normal"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "MilkCarton",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ModernFireplace",
+      "TypeIds": [
+        "Ashes",
+        "Empty"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "MuseumBarrier",
+      "TypeIds": [
+        "Damaged1",
+        "Damaged2",
+        "Half",
+        "Pillar",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "MusicContainer",
+      "TypeIds": [
+        "Medium",
+        "Small"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Onion",
+      "TypeIds": [
+        "Brown",
+        "Green"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Orange",
+      "TypeIds": [
+        "Regular",
+        "Sliced"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "OrnateBollard",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "OrnateSewerLid",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PackageBox",
+      "TypeIds": [
+        "Large",
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Paddle",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Pallet",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PalmTree",
+      "TypeIds": [
+        "Medium1",
+        "Medium2",
+        "Small"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Pan",
+      "TypeIds": [
+        "Medium",
+        "Small"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PaperBallCrumble",
+      "TypeIds": [
+        "Type1",
+        "Type10",
+        "Type2",
+        "Type3",
+        "Type4",
+        "Type5",
+        "Type6",
+        "Type7",
+        "Type8",
+        "Type9"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PaperCrumble",
+      "TypeIds": [
+        "Type1",
+        "Type2",
+        "Type3",
+        "Type4",
+        "Type5",
+        "Type6",
+        "Type7",
+        "Type8",
+        "Type9"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Parasol",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ParkBench",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ParkingMeter",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ParkSlide",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ParkSpinner",
+      "TypeIds": [
+        "Regular",
+        "Striped"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ParkSwing",
+      "TypeIds": [
+        "Double"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ParkTrashcan",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Peanut",
+      "TypeIds": [
+        "Opened",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Pear",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Pickle",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PicnicTable",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Pie",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PileOfBooks",
+      "TypeIds": [
+        "Type1"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Pineapple",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PineTree",
+      "TypeIds": [
+        "Chopped",
+        "Medium1",
+        "Medium2"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Pistol",
+      "TypeIds": [
+        "Single",
+        "Single2"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Pizza",
+      "TypeIds": [
+        "Regular",
+        "Slice"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PlasticBarrier",
+      "TypeIds": [
+        "Double",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PorkCutlet",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PortableRadio",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "PortaPotty",
+      "TypeIds": [
+        "Closed",
+        "Open"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Pot",
+      "TypeIds": [
+        "Medium",
+        "Small"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Raft",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Raspberry",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Revolver",
+      "TypeIds": [
+        "Long",
+        "Long2",
+        "Short"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "RoadworkSign",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Rock",
+      "TypeIds": [
+        "Flat1",
+        "Flat2",
+        "Flat3",
+        "Round1",
+        "Round2",
+        "Round3",
+        "Round4",
+        "Round5",
+        "Round6",
+        "Round7",
+        "Tall1",
+        "Tall2",
+        "Tall3",
+        "Tall4"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "RoundTrashcan",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "RoundTree",
+      "TypeIds": [
+        "A",
+        "Chopped",
+        "Medium1",
+        "Medium2",
+        "Medium3",
+        "Small1"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "RoyalMailbox",
+      "TypeIds": [
+        "Regular",
+        "Spiked"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "RumBottle",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SandwichCookie",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Sashimi",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SauceBottle",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Sausage",
+      "TypeIds": [
+        "Grilled",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Seesaw",
+      "TypeIds": [
+        "Barrel"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ShortTrafficCone",
+      "TypeIds": [
+        "Hole",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Shotgun",
+      "TypeIds": [
+        "Double",
+        "SingleCurved",
+        "SingleStraight",
+        "SingleStraight2"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Shovel",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SmallTrafficLight",
+      "TypeIds": [
+        "ThreeLight",
+        "TwoLight"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Smartphone",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Snowman",
+      "TypeIds": [
+        "Full",
+        "Scarf",
+        "Simple"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SodaBottle",
+      "TypeIds": [
+        "Large",
+        "Small"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SodaCan",
+      "TypeIds": [
+        "Branded"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SphereLightPole",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SpikeTrap",
+      "TypeIds": [
+        "Lowered",
+        "Raised"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SprinklesDonut",
+      "TypeIds": [
+        "Bitten",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SquareTrashcan",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "StadiumChairs",
+      "TypeIds": [
+        "Six",
+        "Three",
+        "Two"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "StadiumLight",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "StadiumSpotlight",
+      "TypeIds": [
+        "Large",
+        "LargeWagon",
+        "Small",
+        "SmallWagon"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Steak",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "StorageShelf",
+      "TypeIds": [
+        "Medium",
+        "Small"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Strawberry",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Suitcase",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Sushi",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SwampTree",
+      "TypeIds": [
+        "Chopped1",
+        "Chopped2",
+        "Large1",
+        "Medium1",
+        "Medium2"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "SwissCheese",
+      "TypeIds": [
+        "Slice"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "TallTrafficLight",
+      "TypeIds": [
+        "Double",
+        "DoubleOposite",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "TelephoneBooth",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "TelephoneCabin",
+      "TypeIds": [
+        "Closed"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "ThinTree",
+      "TypeIds": [
+        "Medium1",
+        "Medium2"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Tomato",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Torch",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "TrafficCone",
+      "TypeIds": [
+        "LargeBase",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "TrafficSignRound",
+      "TypeIds": [
+        "Regular",
+        "Sign"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "TrainTrafficLight",
+      "TypeIds": [
+        "Double"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "TravelBackpack",
+      "TypeIds": [
+        "Rolled"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "TravelBag",
+      "TypeIds": [
+        "Long"
       ],
       "Tags": []
     },
@@ -78,6 +1490,188 @@
       "TypeIds": [
         "large",
         "small"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "TriTrafficSign",
+      "TypeIds": [
+        "Regular",
+        "Sign"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "TunaCan",
+      "TypeIds": [
+        "Opened",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "VendingMachine",
+      "TypeIds": [
+        "Empty",
+        "Full",
+        "Labeled"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "VintageLightPole",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WaterBottle",
+      "TypeIds": [
+        "Branded",
+        "Bumpy",
+        "Smooth"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WaterJar",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Watermelon",
+      "TypeIds": [
+        "Slice"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Well",
+      "TypeIds": [
+        "Empty",
+        "Filled"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WheeledTrashcan",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WineBottle",
+      "TypeIds": [
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WineGlass",
+      "TypeIds": [
+        "Medium"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WoodBarrel",
+      "TypeIds": [
+        "Curved",
+        "ExtraCurved",
+        "Straight"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WoodBarricade",
+      "TypeIds": [
+        "Damaged",
+        "Normal",
+        "Simple"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WoodCrate",
+      "TypeIds": [
+        "Large",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WoodDirectionSign",
+      "TypeIds": [
+        "Double",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WoodRoundFence",
+      "TypeIds": [
+        "Damaged",
+        "Damaged2",
+        "Damaged3",
+        "Damaged4",
+        "Half",
+        "Pillar",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WoodSemiRoundFence",
+      "TypeIds": [
+        "Damaged",
+        "Damaged2",
+        "Damaged3",
+        "Half",
+        "Pillar",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WoodSpikeFence",
+      "TypeIds": [
+        "Damaged",
+        "Damaged2",
+        "Half",
+        "Pillar",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WoodStackFence",
+      "TypeIds": [
+        "Single",
+        "Single2",
+        "Single3"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WoodStraightFence",
+      "TypeIds": [
+        "Damaged",
+        "Damaged2",
+        "Damaged3",
+        "Half",
+        "Pillar",
+        "Single"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "WorkBag",
+      "TypeIds": [
+        "Medium"
       ],
       "Tags": []
     }
