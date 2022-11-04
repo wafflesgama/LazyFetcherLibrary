@@ -7,7 +7,10 @@
         "Clear",
         "Map"
       ],
-      "Tags": []
+      "Tags": [
+        "Ad",
+        "Sign"
+      ]
     },
     {
       "Id": "AidKit",
@@ -15,21 +18,31 @@
         "Medium",
         "Small"
       ],
-      "Tags": []
+      "Tags": [
+        "Aid",
+        "Heal"
+      ]
     },
     {
       "Id": "Apple",
       "TypeIds": [
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Fruit",
+        "Food"
+      ]
     },
     {
       "Id": "ATM",
       "TypeIds": [
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Money",
+        "Machine",
+        "Multibank"
+      ]
     },
     {
       "Id": "Axe",
@@ -37,35 +50,56 @@
         "Small",
         "SmallFire"
       ],
-      "Tags": []
+      "Tags": [
+        "Woodchopper"
+      ]
     },
     {
       "Id": "BabyBottle",
       "TypeIds": [
         "Medium"
       ],
-      "Tags": []
+      "Tags": [
+        "Milk",
+        "Bottle",
+        "Baby",
+        "Drink"
+      ]
     },
     {
       "Id": "Bacon",
       "TypeIds": [
         "Single"
       ],
-      "Tags": []
+      "Tags": [
+        "Pork",
+        "Grilled",
+        "Meat",
+        "Food"
+      ]
     },
     {
       "Id": "Baguette",
       "TypeIds": [
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Bread",
+        "Bakery",
+        "Dough",
+        "Food"
+      ]
     },
     {
       "Id": "BalloonGlass",
       "TypeIds": [
         "Medium"
       ],
-      "Tags": []
+      "Tags": [
+        "Cup",
+        "Glass",
+        "Wine"
+      ]
     },
     {
       "Id": "Banana",
@@ -73,14 +107,21 @@
         "Pack",
         "Single"
       ],
-      "Tags": []
+      "Tags": [
+        "Fruit",
+        "Monkey",
+        "Tropical",
+        "Food"
+      ]
     },
     {
       "Id": "Bandage",
       "TypeIds": [
         "Single"
       ],
-      "Tags": []
+      "Tags": [
+        "Heal"
+      ]
     },
     {
       "Id": "Battery",
@@ -89,35 +130,57 @@
         "AAA",
         "C"
       ],
-      "Tags": []
+      "Tags": [
+        "Energy",
+        "Remote",
+        "Power",
+        "Cell"
+      ]
     },
     {
       "Id": "BeerGlass",
       "TypeIds": [
         "Filled"
       ],
-      "Tags": []
+      "Tags": [
+        "Pint",
+        "Jar",
+        "Brew",
+        "Alcohol",
+        "Drink"
+      ]
     },
     {
       "Id": "BigDumpster",
       "TypeIds": [
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Trash",
+        "Garbage",
+        "Container"
+      ]
     },
     {
       "Id": "BigIsland",
       "TypeIds": [
         "Simple1"
       ],
-      "Tags": []
+      "Tags": [
+        "Land",
+        "Ground"
+      ]
     },
     {
       "Id": "BigPineTree",
       "TypeIds": [
         "Medium1"
       ],
-      "Tags": []
+      "Tags": [
+        "Forest",
+        "Wood",
+        "Plant"
+      ]
     },
     {
       "Id": "BigPot",
@@ -125,21 +188,35 @@
         "Medium",
         "Tall"
       ],
-      "Tags": []
+      "Tags": [
+        "Cook",
+        "Cooking Pot",
+        "Cauldron",
+        "Pan"
+      ]
     },
     {
       "Id": "Blackberry",
       "TypeIds": [
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Fruit",
+        "Berry",
+        "Wild",
+        "Food"
+      ]
     },
     {
       "Id": "Bollard",
       "TypeIds": [
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Pole",
+        "Street",
+        "Road"
+      ]
     },
     {
       "Id": "BreadLoaf",
@@ -148,14 +225,20 @@
         "Regular",
         "Slice"
       ],
-      "Tags": []
+      "Tags": [
+        "Dough",
+        "Bun",
+        "Food"
+      ]
     },
     {
       "Id": "BrickWall",
       "TypeIds": [
         "Medium"
       ],
-      "Tags": []
+      "Tags": [
+        "Construction"
+      ]
     },
     {
       "Id": "BrokenGlass",
@@ -164,7 +247,11 @@
         "Type2",
         "Type3"
       ],
-      "Tags": []
+      "Tags": [
+        "Litter",
+        "Misc",
+        "Trash"
+      ]
     },
     {
       "Id": "Burger",
@@ -172,7 +259,14 @@
         "Double",
         "Single"
       ],
-      "Tags": []
+      "Tags": [
+        "Fast Food",
+        "Bun",
+        "Hamburger",
+        "Cheese Burger",
+        "Patty",
+        "Beef"
+      ]
     },
     {
       "Id": "Cactus",
@@ -182,7 +276,11 @@
         "single",
         "tall"
       ],
-      "Tags": []
+      "Tags": [
+        "Plant",
+        "Desert",
+        "Bush"
+      ]
     },
     {
       "Id": "Cake",
@@ -191,7 +289,13 @@
         "Slice",
         "Slice"
       ],
-      "Tags": []
+      "Tags": [
+        "Bakery",
+        "Birthday",
+        "Dessert",
+        "Food",
+        "Sweet"
+      ]
     },
     {
       "Id": "CargoContainer",
@@ -199,7 +303,11 @@
         "Large",
         "Small"
       ],
-      "Tags": []
+      "Tags": [
+        "Ship",
+        "Shipping",
+        "Crate"
+      ]
     },
     {
       "Id": "CheeseWheel",
@@ -207,21 +315,31 @@
         "Cutted",
         "Slice"
       ],
-      "Tags": []
+      "Tags": [
+        "Food"
+      ]
     },
     {
       "Id": "Cherry",
       "TypeIds": [
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Fruit",
+        "Food"
+      ]
     },
     {
       "Id": "ChickenThigh",
       "TypeIds": [
         "Single"
       ],
-      "Tags": []
+      "Tags": [
+        "Meat",
+        "Food",
+        "Leg",
+        "Drumstick"
+      ]
     },
     {
       "Id": "CigarreteEnd",
@@ -232,14 +350,22 @@
         "Type4",
         "Type5"
       ],
-      "Tags": []
+      "Tags": [
+        "Litter",
+        "Trash",
+        "Misc"
+      ]
     },
     {
       "Id": "CinderBlock",
       "TypeIds": [
         "Medium"
       ],
-      "Tags": []
+      "Tags": [
+        "Cement",
+        "Brick",
+        "Construction"
+      ]
     },
     {
       "Id": "ClawTrap",
@@ -247,7 +373,9 @@
         "Closed",
         "Open"
       ],
-      "Tags": []
+      "Tags": [
+        "Hunt"
+      ]
     },
     {
       "Id": "Cliff",
@@ -261,21 +389,34 @@
         "Simple3",
         "Simple4"
       ],
-      "Tags": []
+      "Tags": [
+        "Ground",
+        "Island",
+        "Land",
+        "Mountain"
+      ]
     },
     {
       "Id": "CocktailGlass",
       "TypeIds": [
         "Medium"
       ],
-      "Tags": []
+      "Tags": [
+        "Cup",
+        "Alcohol",
+        "Glass",
+        "Martini"
+      ]
     },
     {
       "Id": "CoffeeMug",
       "TypeIds": [
         "Medium"
       ],
-      "Tags": []
+      "Tags": [
+        "Teacup",
+        "Cup"
+      ]
     },
     {
       "Id": "Coin",
@@ -284,7 +425,12 @@
         "Simple",
         "Stripe"
       ],
-      "Tags": []
+      "Tags": [
+        "Money",
+        "Dollar",
+        "Gold",
+        "Cash"
+      ]
     },
     {
       "Id": "ColoredDonut",
@@ -292,7 +438,11 @@
         "Bitten",
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Food",
+        "Dessert",
+        "Fast Food"
+      ]
     },
     {
       "Id": "Compass",
@@ -300,21 +450,30 @@
         "Closed",
         "Opened"
       ],
-      "Tags": []
+      "Tags": [
+        "Tool",
+        "Navigation"
+      ]
     },
     {
       "Id": "ConcreteBench",
       "TypeIds": [
         "Medium"
       ],
-      "Tags": []
+      "Tags": [
+        "Park",
+        "Garden"
+      ]
     },
     {
       "Id": "ConcreteWall",
       "TypeIds": [
         "Tall"
       ],
-      "Tags": []
+      "Tags": [
+        "Barrier",
+        "City"
+      ]
     },
     {
       "Id": "ConeIceCream",
@@ -322,14 +481,22 @@
         "Chocolate",
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Food",
+        "Dessert"
+      ]
     },
     {
       "Id": "Cookie",
       "TypeIds": [
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Food",
+        "Chip",
+        "Chocolate",
+        "Biscuit"
+      ]
     },
     {
       "Id": "Corn",
@@ -337,7 +504,11 @@
         "Dashed",
         "Regular"
       ],
-      "Tags": []
+      "Tags": [
+        "Food",
+        "Vegetable",
+        "Grain"
+      ]
     },
     {
       "Id": "CrystalCluster",
@@ -351,7 +522,12 @@
         "Medium7",
         "Medium8"
       ],
-      "Tags": []
+      "Tags": [
+        "Rock",
+        "Quartz",
+        "Stone",
+        "Precious"
+      ]
     },
     {
       "Id": "Cucumber",
@@ -465,6 +641,14 @@
         "Branded",
         "Damaged",
         "Opened",
+        "Regular"
+      ],
+      "Tags": []
+    },
+    {
+      "Id": "Football",
+      "TypeIds": [
+        "Lowpoly",
         "Regular"
       ],
       "Tags": []
