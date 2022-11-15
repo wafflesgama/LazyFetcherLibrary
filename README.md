@@ -2,18 +2,20 @@
 
 ## Hundreds of CC0 3D assets available for everyone 🪣
 
-Lazy Builder Library is the official asset collection of the Lazy Builder Tool. [Asset List here](./AssetList.md) 
+Lazy Builder Library is the official asset collection of the Lazy Builder Tool. [(See asset list here)](./AssetList.md) 
 
 <br/>
 
 ## How the library works 🛰️
 The assets are organized them based on their respective items **_ItemId_** & **_ItemTypeId_** properties. Each asset is stored follows the path (./content/**_ItemId_**/**_ItemId_**_**_ItemTypeId_**.fbx)
 
+![Cover](./ReadmeFiles/Cover3.png)
+
 <br/>
 
 ## Blender plugins to help build your library 🧰
 
-To reduce the amount of manual labour and automate the naming & export processes, two blender plugins were created:
+To reduce the amount of manual labour and automate the naming & export processes, two blender plugins were created [(Available in the Releases Section)](https://github.com/wafflesgama/LazyBuilderLibrary/releases):
 
 
 | Plugin   | About| Version| 
