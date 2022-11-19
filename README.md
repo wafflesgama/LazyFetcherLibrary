@@ -18,10 +18,10 @@ The assets are organized them based on their respective items **_ItemId_** & **_
 To reduce the amount of manual labour and automate the naming & export processes, two blender plugins were created [(Available in the Releases Section)](https://github.com/wafflesgama/LazyBuilderLibrary/releases):
 
 
-| Plugin   | About| Version| 
+| Plugin   | Description| Repo| 
 |--------------|------|----------------------------:|
-| Lazy Rename            | A plugin that automatically renames the selected object based on the **_ItemId_** & **_ItemTypeId_** fields     | 1.00       | Public repositories only        |
-| Lazy Batex          |  A modified version of the Batex plugin, to quickly export assets in FBX format from the base lib path   | 1.00       | Tested on Windows OS        |
+| Lazy Rename            | A plugin that automatically renames the selected object based on the **_ItemId_** & **_ItemTypeId_** fields     | [Link](https://github.com/wafflesgama/LazyRename)       | Public repositories only        |
+| Lazy Batex          |  A modified version of the Batex plugin, to quickly export assets in FBX format from the base lib path   | [Link](https://github.com/wafflesgama/LazyBatex)      | Tested on Windows OS        |
 
 <br/>
 
