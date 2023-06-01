@@ -1,2427 +1,2479 @@
 {
-  "Id": "general",
-  "Items": [
-    {
-      "Id": "AdSign",
-      "TypeIds": [
-        "Clear",
-        "Map"
-      ],
-      "Tags": [
-        "Ad",
-        "Sign"
-      ]
-    },
-    {
-      "Id": "AidKit",
-      "TypeIds": [
-        "Medium",
-        "Small"
-      ],
-      "Tags": [
-        "Aid",
-        "Heal"
-      ]
-    },
-    {
-      "Id": "Apple",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Fruit",
-        "Food",
-        "Juice"
-      ]
-    },
-    {
-      "Id": "ATM",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Money",
-        "Machine",
-        "Multibank"
-      ]
-    },
-    {
-      "Id": "Axe",
-      "TypeIds": [
-        "Small",
-        "SmallFire"
-      ],
-      "Tags": [
-        "Woodchopper"
-      ]
-    },
-    {
-      "Id": "BabyBottle",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Milk",
-        "Baby",
-        "Drink"
-      ]
-    },
-    {
-      "Id": "Bacon",
-      "TypeIds": [
-        "Single"
-      ],
-      "Tags": [
-        "Pork",
-        "Grilled",
-        "Meat",
-        "Food"
-      ]
-    },
-    {
-      "Id": "Baguette",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Bread",
-        "Bakery",
-        "Dough",
-        "Food"
-      ]
-    },
-    {
-      "Id": "BalloonGlass",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Cup",
-        "Wine"
-      ]
-    },
-    {
-      "Id": "Banana",
-      "TypeIds": [
-        "Pack",
-        "Single"
-      ],
-      "Tags": [
-        "Fruit",
-        "Monkey",
-        "Tropical",
-        "Food"
-      ]
-    },
-    {
-      "Id": "Bandage",
-      "TypeIds": [
-        "Single"
-      ],
-      "Tags": [
-        "Heal",
-        "Bandaid"
-      ]
-    },
-    {
-      "Id": "Battery",
-      "TypeIds": [
-        "AA",
-        "AAA",
-        "C"
-      ],
-      "Tags": [
-        "Energy",
-        "Remote",
-        "Power",
-        "Cell"
-      ]
-    },
-    {
-      "Id": "BeerGlass",
-      "TypeIds": [
-        "Filled"
-      ],
-      "Tags": [
-        "Pint",
-        "Jar",
-        "Brew",
-        "Alcohol",
-        "Drink"
-      ]
-    },
-    {
-      "Id": "BigDumpster",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Trash",
-        "Garbage",
-        "Container"
-      ]
-    },
-    {
-      "Id": "BigIsland",
-      "TypeIds": [
-        "Simple1"
-      ],
-      "Tags": [
-        "Land",
-        "Ground"
-      ]
-    },
-    {
-      "Id": "BigPineTree",
-      "TypeIds": [
-        "Medium1"
-      ],
-      "Tags": [
-        "Forest",
-        "Wood",
-        "Plant"
-      ]
-    },
-    {
-      "Id": "BigPot",
-      "TypeIds": [
-        "Medium",
-        "Tall"
-      ],
-      "Tags": [
-        "Cook",
-        "Cauldron",
-        "Pan"
-      ]
-    },
-    {
-      "Id": "Blackberry",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Fruit",
-        "Berry",
-        "Wild",
-        "Food"
-      ]
-    },
-    {
-      "Id": "Bollard",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Pole",
-        "Street",
-        "Road"
-      ]
-    },
-    {
-      "Id": "BreadLoaf",
-      "TypeIds": [
-        "Half",
-        "Regular",
-        "Slice"
-      ],
-      "Tags": [
-        "Dough",
-        "Bun",
-        "Food"
-      ]
-    },
-    {
-      "Id": "BrickWall",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Construction"
-      ]
-    },
-    {
-      "Id": "BrokenGlass",
-      "TypeIds": [
-        "Type1",
-        "Type2",
-        "Type3"
-      ],
-      "Tags": [
-        "Litter",
-        "Misc",
-        "Trash"
-      ]
-    },
-    {
-      "Id": "Burger",
-      "TypeIds": [
-        "Double",
-        "Single"
-      ],
-      "Tags": [
-        "Fast Food",
-        "Bun",
-        "Hamburger",
-        "Cheese",
-        "Patty",
-        "Beef"
-      ]
-    },
-    {
-      "Id": "Cactus",
-      "TypeIds": [
-        "double",
-        "quad",
-        "single",
-        "tall"
-      ],
-      "Tags": [
-        "Plant",
-        "Desert",
-        "Bush"
-      ]
-    },
-    {
-      "Id": "Cake",
-      "TypeIds": [
-        "Regular",
-        "Slice",
-        "Slice"
-      ],
-      "Tags": [
-        "Bakery",
-        "Birthday",
-        "Dessert",
-        "Food",
-        "Sweet"
-      ]
-    },
-    {
-      "Id": "CargoContainer",
-      "TypeIds": [
-        "Large",
-        "Small"
-      ],
-      "Tags": [
-        "Ship",
-        "Shipping",
-        "Crate"
-      ]
-    },
-    {
-      "Id": "CheeseWheel",
-      "TypeIds": [
-        "Cutted",
-        "Slice"
-      ],
-      "Tags": [
-        "Food"
-      ]
-    },
-    {
-      "Id": "Cherry",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Fruit",
-        "Food"
-      ]
-    },
-    {
-      "Id": "ChickenThigh",
-      "TypeIds": [
-        "Single"
-      ],
-      "Tags": [
-        "Meat",
-        "Food",
-        "Leg",
-        "Drumstick"
-      ]
-    },
-    {
-      "Id": "CigarreteEnd",
-      "TypeIds": [
-        "Type1",
-        "Type2",
-        "Type3",
-        "Type4",
-        "Type5"
-      ],
-      "Tags": [
-        "Litter",
-        "Trash",
-        "Misc"
-      ]
-    },
-    {
-      "Id": "CinderBlock",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Cement",
-        "Brick",
-        "Construction"
-      ]
-    },
-    {
-      "Id": "ClawTrap",
-      "TypeIds": [
-        "Closed",
-        "Open"
-      ],
-      "Tags": [
-        "Hunt"
-      ]
-    },
-    {
-      "Id": "Cliff",
-      "TypeIds": [
-        "Complex1",
-        "Complex2",
-        "Complex3",
-        "Complex4",
-        "Simple1",
-        "Simple2",
-        "Simple3",
-        "Simple4"
-      ],
-      "Tags": [
-        "Ground",
-        "Island",
-        "Land",
-        "Mountain"
-      ]
-    },
-    {
-      "Id": "CocktailGlass",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Cup",
-        "Alcohol",
-        "Glass",
-        "Martini"
-      ]
-    },
-    {
-      "Id": "CoffeeMug",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Teacup",
-        "Cup"
-      ]
-    },
-    {
-      "Id": "Coin",
-      "TypeIds": [
-        "Dollar",
-        "Simple",
-        "Stripe"
-      ],
-      "Tags": [
-        "Money",
-        "Dollar",
-        "Gold",
-        "Cash"
-      ]
-    },
-    {
-      "Id": "ColoredDonut",
-      "TypeIds": [
-        "Bitten",
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Dessert",
-        "Fast"
-      ]
-    },
-    {
-      "Id": "Compass",
-      "TypeIds": [
-        "Closed",
-        "Opened"
-      ],
-      "Tags": [
-        "Tool",
-        "Navigation"
-      ]
-    },
-    {
-      "Id": "ConcreteBench",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Park",
-        "Garden"
-      ]
-    },
-    {
-      "Id": "ConcreteWall",
-      "TypeIds": [
-        "Tall"
-      ],
-      "Tags": [
-        "Barrier",
-        "City"
-      ]
-    },
-    {
-      "Id": "ConeIceCream",
-      "TypeIds": [
-        "Chocolate",
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Dessert"
-      ]
-    },
-    {
-      "Id": "Cookie",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Chip",
-        "Chocolate",
-        "Biscuit"
-      ]
-    },
-    {
-      "Id": "Corn",
-      "TypeIds": [
-        "Dashed",
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Vegetable",
-        "Grain"
-      ]
-    },
-    {
-      "Id": "CrystalCluster",
-      "TypeIds": [
-        "Medium1",
-        "Medium2",
-        "Medium3",
-        "Medium4",
-        "Medium5",
-        "Medium6",
-        "Medium7",
-        "Medium8"
-      ],
-      "Tags": [
-        "Rock",
-        "Quartz",
-        "Stone",
-        "Precious"
-      ]
-    },
-    {
-      "Id": "CurvedTrafficLight",
-      "TypeIds": [
-        "Double",
-        "DoubleSign",
-        "Single"
-      ],
-      "Tags": [
-        "Post",
-        "City",
-        "Road"
-      ]
-    },
-    {
-      "Id": "Donut",
-      "TypeIds": [
-        "Bitten",
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Dessert",
-        "Fast"
-      ]
-    },
-    {
-      "Id": "DrinkingFountain",
-      "TypeIds": [
-        "Empty",
-        "LargeEmpty"
-      ],
-      "Tags": [
-        "Park",
-        "Water",
-        "Dispenser"
-      ]
-    },
-    {
-      "Id": "Dumpster",
-      "TypeIds": [
-        "Closed",
-        "Open"
-      ],
-      "Tags": [
-        "Trash",
-        "Litter",
-        "City"
-      ]
-    },
-    {
-      "Id": "Egg",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Food",
-        "Chicken"
-      ]
-    },
-    {
-      "Id": "Eggplant",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Vegetable"
-      ]
-    },
-    {
-      "Id": "ElectricBox",
-      "TypeIds": [
-        "Double",
-        "Single"
-      ],
-      "Tags": [
-        "City",
-        "Shock",
-        "Current"
-      ]
-    },
-    {
-      "Id": "ElectricPole",
-      "TypeIds": [
-        "Cables",
-        "Regular"
-      ],
-      "Tags": [
-        "Post",
-        "City",
-        "Road"
-      ]
-    },
-    {
-      "Id": "FireHydrant",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Water",
-        "City",
-        "Road",
-        "Firefight"
-      ]
-    },
-    {
-      "Id": "Fireplace",
-      "TypeIds": [
-        "Baseless",
-        "Empty",
-        "Regular"
-      ],
-      "Tags": [
-        "Fire",
-        "Barbecue",
-        "Blaze"
-      ]
-    },
-    {
-      "Id": "FlareGun",
-      "TypeIds": [
-        "Short"
-      ],
-      "Tags": [
-        "Weapon",
-        "Fire",
-        "Signal",
-        "Pistol",
-        "Revolver"
-      ]
-    },
-    {
-      "Id": "Flaslight",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Light",
-        "Tool",
-        "Hand"
-      ]
-    },
-    {
-      "Id": "FoodCan",
-      "TypeIds": [
-        "Branded",
-        "Damaged",
-        "Opened",
-        "Regular"
-      ],
-      "Tags": [
-        "Jar",
-        "Soup",
-        "Tomato"
-      ]
-    },
-    {
-      "Id": "Football",
-      "TypeIds": [
-        "Lowpoly",
-        "Regular"
-      ],
-      "Tags": [
-        "Soccer",
-        "Ball",
-        "Sport"
-      ]
-    },
-    {
-      "Id": "Fountain",
-      "TypeIds": [
-        "Empty",
-        "Filled"
-      ],
-      "Tags": [
-        "Park",
-        "Water",
-        "Spring"
-      ]
-    },
-    {
-      "Id": "FriedEgg",
-      "TypeIds": [
-        "Medium",
-        "Medium2",
-        "Medium3"
-      ],
-      "Tags": [
-        "Food",
-        "Frying Pan"
-      ]
-    },
-    {
-      "Id": "Fries",
-      "TypeIds": [
-        "Regular",
-        "Single"
-      ],
-      "Tags": [
-        "Potato",
-        "Fast Food"
-      ]
-    },
-    {
-      "Id": "GarbageBag",
-      "TypeIds": [
-        "Type1",
-        "Type2",
-        "Type3"
-      ],
-      "Tags": [
-        "Plastic",
-        "Trash",
-        "Litter",
-        "City"
-      ]
-    },
-    {
-      "Id": "GasBottle",
-      "TypeIds": [
-        "Long",
-        "Short"
-      ],
-      "Tags": [
-        "Butane",
-        "Propane",
-        "Tank",
-        "Fuel"
-      ]
-    },
-    {
-      "Id": "GasCan",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Gasoline",
-        "Jerry",
-        "Fuel",
-        "Oil",
-        "Petrol"
-      ]
-    },
-    {
-      "Id": "GasPump",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Gasoline",
-        "Stand",
-        "Fuel",
-        "Oil"
-      ]
-    },
-    {
-      "Id": "GiftBox",
-      "TypeIds": [
-        "Large",
-        "Medium",
-        "Small"
-      ],
-      "Tags": [
-        "Present",
-        "Birthday",
-        "Christmas"
-      ]
-    },
-    {
-      "Id": "GlazedDonut",
-      "TypeIds": [
-        "Bitten",
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Dessert",
-        "Fast"
-      ]
-    },
-    {
-      "Id": "Gum",
-      "TypeIds": [
-        "Type1",
-        "Type2",
-        "Type3",
-        "Type4",
-        "Type5"
-      ],
-      "Tags": [
-        "Chewing",
-        "Bubble",
-        "Food",
-        "Sweet"
-      ]
-    },
-    {
-      "Id": "Gummybear",
-      "TypeIds": [
-        "Bitten",
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Jelly"
-      ]
-    },
-    {
-      "Id": "HandSuitcase",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Luggage",
-        "Bag",
-        "Travel",
-        "Satchel"
-      ]
-    },
-    {
-      "Id": "HexTrafficSign",
-      "TypeIds": [
-        "Regular",
-        "Sign"
-      ],
-      "Tags": [
-        "City",
-        "Road"
-      ]
-    },
-    {
-      "Id": "HomeTrashcan",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Trash",
-        "Litter",
-        "House"
-      ]
-    },
-    {
-      "Id": "HoneyPot",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Food",
-        "Sweet",
-        "Bee"
-      ]
-    },
-    {
-      "Id": "HotdogStand",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "City",
-        "Fast Food"
-      ]
-    },
-    {
-      "Id": "InfoSign",
-      "TypeIds": [
-        "Clear",
-        "Written"
-      ],
-      "Tags": [
-        "Ad",
-        "City",
-        "Sidewalk"
-      ]
-    },
-    {
-      "Id": "Island",
-      "TypeIds": [
-        "Simple1",
-        "Simple2",
-        "Simple3",
-        "Simple4"
-      ],
-      "Tags": [
-        "Land",
-        "Ground"
-      ]
-    },
-    {
-      "Id": "JuiceBottle",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Drink",
-        "Plastic"
-      ]
-    },
-    {
-      "Id": "JuiceGlass",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Cup",
-        "Water"
-      ]
-    },
-    {
-      "Id": "Kettle",
-      "TypeIds": [
-        "Medium",
-        "Small"
-      ],
-      "Tags": [
-        "Tea",
-        "Water",
-        "Boil"
-      ]
-    },
-    {
-      "Id": "Knife",
-      "TypeIds": [
-        "Straight"
-      ],
-      "Tags": [
-        "Weapon",
-        "Blade",
-        "Dagger"
-      ]
-    },
-    {
-      "Id": "Leek",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Vegetable"
-      ]
-    },
-    {
-      "Id": "Lemon",
-      "TypeIds": [
-        "Regular",
-        "Sliced"
-      ],
-      "Tags": [
-        "Food",
-        "Fruit",
-        "Juice"
-      ]
-    },
-    {
-      "Id": "Lettuce",
-      "TypeIds": [
-        "Medium",
-        "Medium2",
-        "Medium3"
-      ],
-      "Tags": [
-        "Food",
-        "Vegetable"
-      ]
-    },
-    {
-      "Id": "LightPole",
-      "TypeIds": [
-        "Double",
-        "Single"
-      ],
-      "Tags": [
-        "Road",
-        "Post",
-        "City"
-      ]
-    },
-    {
-      "Id": "Locker",
-      "TypeIds": [
-        "Single"
-      ],
-      "Tags": [
-        "School",
-        "Metal",
-        "Vault"
-      ]
-    },
-    {
-      "Id": "Lollipop",
-      "TypeIds": [
-        "Bump",
-        "Round",
-        "Swirl"
-      ],
-      "Tags": [
-        "Food",
-        "Sweet"
-      ]
-    },
-    {
-      "Id": "LosangTrafficSign",
-      "TypeIds": [
-        "Regular",
-        "Sign"
-      ],
-      "Tags": [
-        "Road",
-        "City",
-        "Post"
-      ]
-    },
-    {
-      "Id": "Mailbox",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "City",
-        "Sidewalk",
-        "Mail",
-        "Post",
-        "Letter"
-      ]
-    },
-    {
-      "Id": "Match",
-      "TypeIds": [
-        "Lit",
-        "Unlit"
-      ],
-      "Tags": [
-        "Fire",
-        "Burn"
-      ]
-    },
-    {
-      "Id": "Matchbox",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Fire"
-      ]
-    },
-    {
-      "Id": "MediumTrafficLight",
-      "TypeIds": [
-        "DoubleOposite",
-        "OpositeSide",
-        "SameSide"
-      ],
-      "Tags": [
-        "Road",
-        "City"
-      ]
-    },
-    {
-      "Id": "MenuSign",
-      "TypeIds": [
-        "Clear"
-      ],
-      "Tags": [
-        "Sidewalk",
-        "Restaurant"
-      ]
-    },
-    {
-      "Id": "MetalBarrel",
-      "TypeIds": [
-        "Short",
-        "Tall"
-      ],
-      "Tags": [
-        "Restaurant",
-        "Tank",
-        "Beer",
-        "Alcohol"
-      ]
-    },
-    {
-      "Id": "MetalBarrier",
-      "TypeIds": [
-        "Half",
-        "Pillar",
-        "Single"
-      ],
-      "Tags": [
-        "Fence",
-        "City",
-        "Road"
-      ]
-    },
-    {
-      "Id": "MetalDirectionSign",
-      "TypeIds": [
-        "Type1",
-        "Type2",
-        "Type3",
-        "Type4"
-      ],
-      "Tags": [
-        "City",
-        "Road",
-        "Post"
-      ]
-    },
-    {
-      "Id": "MetalGridFence",
-      "TypeIds": [
-        "Damaged",
-        "Normal",
-        "Simple"
-      ],
-      "Tags": [
-        "Barrier",
-        "Rail"
-      ]
-    },
-    {
-      "Id": "MetalSpikeFence",
-      "TypeIds": [
-        "CurveDown",
-        "CurveUp",
-        "Normal"
-      ],
-      "Tags": [
-        "Gate",
-        "Barrier",
-        "Rail"
-      ]
-    },
-    {
-      "Id": "MilkCarton",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Drink",
-        "Cow",
-        "Bottle"
-      ]
-    },
-    {
-      "Id": "ModernFireplace",
-      "TypeIds": [
-        "Ashes",
-        "Empty"
-      ],
-      "Tags": [
-        "Fire",
-        "Barbecue"
-      ]
-    },
-    {
-      "Id": "MuseumBarrier",
-      "TypeIds": [
-        "Damaged1",
-        "Damaged2",
-        "Half",
-        "Pillar",
-        "Single"
-      ],
-      "Tags": [
-        "Gallery",
-        "Exhibit",
-        "Pole",
-        "Rope"
-      ]
-    },
-    {
-      "Id": "MusicContainer",
-      "TypeIds": [
-        "Medium",
-        "Small"
-      ],
-      "Tags": [
-        "Concert",
-        "Box",
-        "Audio"
-      ]
-    },
-    {
-      "Id": "Onion",
-      "TypeIds": [
-        "Brown",
-        "Green"
-      ],
-      "Tags": [
-        "Food",
-        "Vegetable"
-      ]
-    },
-    {
-      "Id": "Orange",
-      "TypeIds": [
-        "Regular",
-        "Sliced"
-      ],
-      "Tags": [
-        "Food",
-        "Fruit",
-        "Juice"
-      ]
-    },
-    {
-      "Id": "OrnateBollard",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "City",
-        "Road",
-        "Sidewalk",
-        "Pole",
-        "Post"
-      ]
-    },
-    {
-      "Id": "OrnateSewerLid",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Drain",
-        "Gutter",
-        "Cover"
-      ]
-    },
-    {
-      "Id": "PackageBox",
-      "TypeIds": [
-        "Large",
-        "Medium"
-      ],
-      "Tags": [
-        "Cardbox",
-        "Delivery",
-        "Packet",
-        "Carton"
-      ]
-    },
-    {
-      "Id": "Paddle",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Boat",
-        "Wade",
-        "Row",
-        "Sail"
-      ]
-    },
-    {
-      "Id": "Pallet",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Storage",
-        "Wood"
-      ]
-    },
-    {
-      "Id": "PalmTree",
-      "TypeIds": [
-        "Medium1",
-        "Medium2",
-        "Small"
-      ],
-      "Tags": [
-        "Island",
-        "Tropical",
-        "Beach"
-      ]
-    },
-    {
-      "Id": "Pan",
-      "TypeIds": [
-        "Medium",
-        "Small"
-      ],
-      "Tags": [
-        "Kitchen",
-        "Cook",
-        "Frying"
-      ]
-    },
-    {
-      "Id": "PaperBallCrumble",
-      "TypeIds": [
-        "Type1",
-        "Type10",
-        "Type2",
-        "Type3",
-        "Type4",
-        "Type5",
-        "Type6",
-        "Type7",
-        "Type8",
-        "Type9"
-      ],
-      "Tags": [
-        "Trash",
-        "Litter",
-        "Damaged"
-      ]
-    },
-    {
-      "Id": "PaperCrumble",
-      "TypeIds": [
-        "Type1",
-        "Type2",
-        "Type3",
-        "Type4",
-        "Type5",
-        "Type6",
-        "Type7",
-        "Type8",
-        "Type9"
-      ],
-      "Tags": [
-        "Trash",
-        "Litter"
-      ]
-    },
-    {
-      "Id": "Parasol",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Shade",
-        "Sun"
-      ]
-    },
-    {
-      "Id": "ParkBench",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Garden"
-      ]
-    },
-    {
-      "Id": "ParkingMeter",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "City",
-        "Car",
-        "Coin",
-        "Road"
-      ]
-    },
-    {
-      "Id": "ParkSlide",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Kid",
-        "Playground"
-      ]
-    },
-    {
-      "Id": "ParkSpinner",
-      "TypeIds": [
-        "Regular",
-        "Striped"
-      ],
-      "Tags": [
-        "Kid",
-        "Playground"
-      ]
-    },
-    {
-      "Id": "ParkSwing",
-      "TypeIds": [
-        "Double"
-      ],
-      "Tags": [
-        "Kids",
-        "Playground"
-      ]
-    },
-    {
-      "Id": "ParkTrashcan",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Wood",
-        "Trash",
-        "Litter",
-        "Bin"
-      ]
-    },
-    {
-      "Id": "Peanut",
-      "TypeIds": [
-        "Opened",
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Fruit",
-        "Dried"
-      ]
-    },
-    {
-      "Id": "Pear",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Fruit",
-        "Food"
-      ]
-    },
-    {
-      "Id": "Pickle",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Vegetable"
-      ]
-    },
-    {
-      "Id": "PicnicTable",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Park",
-        "Wood"
-      ]
-    },
-    {
-      "Id": "Pie",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Dessert",
-        "Apple"
-      ]
-    },
-    {
-      "Id": "PileOfBooks",
-      "TypeIds": [
-        "Type1"
-      ],
-      "Tags": [
-        "Misc",
-        "Trash"
-      ]
-    },
-    {
-      "Id": "Pineapple",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Fruit",
-        "Food"
-      ]
-    },
-    {
-      "Id": "PineTree",
-      "TypeIds": [
-        "Chopped",
-        "Medium1",
-        "Medium2"
-      ],
-      "Tags": [
-        "Forest"
-      ]
-    },
-    {
-      "Id": "Pistol",
-      "TypeIds": [
-        "Single",
-        "Single2"
-      ],
-      "Tags": [
-        "Weapon",
-        "Gun",
-        "Revolver"
-      ]
-    },
-    {
-      "Id": "Pizza",
-      "TypeIds": [
-        "Regular",
-        "Slice"
-      ],
-      "Tags": [
-        "Food",
-        "Fast Food",
-        "Pepperoni",
-        "Slice"
-      ]
-    },
-    {
-      "Id": "PlasticBarrier",
-      "TypeIds": [
-        "Double",
-        "Single"
-      ],
-      "Tags": [
-        "Road",
-        "City",
-        "Fence"
-      ]
-    },
-    {
-      "Id": "PorkCutlet",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Meat",
-        "Bone",
-        "Food"
-      ]
-    },
-    {
-      "Id": "PortableRadio",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Tool",
-        "Music",
-        "Mp3"
-      ]
-    },
-    {
-      "Id": "PortaPotty",
-      "TypeIds": [
-        "Closed",
-        "Open"
-      ],
-      "Tags": [
-        "Bathroom",
-        "Portable",
-        "Street"
-      ]
-    },
-    {
-      "Id": "Pot",
-      "TypeIds": [
-        "Medium",
-        "Small"
-      ],
-      "Tags": [
-        "Kichen",
-        "Cauldron"
-      ]
-    },
-    {
-      "Id": "Raft",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Boat",
-        "Inflatable",
-        "Sail"
-      ]
-    },
-    {
-      "Id": "Raspberry",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Fruit",
-        "Berry",
-        "Food",
-        "Wild"
-      ]
-    },
-    {
-      "Id": "Revolver",
-      "TypeIds": [
-        "Long",
-        "Long2",
-        "Short"
-      ],
-      "Tags": [
-        "Gun",
-        "Weapon",
-        "Pistol"
-      ]
-    },
-    {
-      "Id": "RoadworkSign",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Barrier",
-        "Road",
-        "City",
-        "Street"
-      ]
-    },
-    {
-      "Id": "Rock",
-      "TypeIds": [
-        "Flat1",
-        "Flat2",
-        "Flat3",
-        "Round1",
-        "Round2",
-        "Round3",
-        "Round4",
-        "Round5",
-        "Round6",
-        "Round7",
-        "Tall1",
-        "Tall2",
-        "Tall3",
-        "Tall4"
-      ],
-      "Tags": [
-        "Stone",
-        "Boulder"
-      ]
-    },
-    {
-      "Id": "RoundTrashcan",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Trash",
-        "City",
-        "Litter",
-        "Bin"
-      ]
-    },
-    {
-      "Id": "RoundTree",
-      "TypeIds": [
-        "A",
-        "Chopped",
-        "Medium1",
-        "Medium2",
-        "Medium3",
-        "Small1"
-      ],
-      "Tags": [
-        "Vegetation"
-      ]
-    },
-    {
-      "Id": "RoyalMailbox",
-      "TypeIds": [
-        "Regular",
-        "Spiked"
-      ],
-      "Tags": [
-        "Post",
-        "Mail",
-        "Sidewalk"
-      ]
-    },
-    {
-      "Id": "RumBottle",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Drink",
-        "Glass",
-        "Cork",
-        "Alcohol"
-      ]
-    },
-    {
-      "Id": "SandwichCookie",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Chocolate",
-        "Oreo",
-        "Biscuit",
-        "Chip",
-        "Food",
-        "Sweet"
-      ]
-    },
-    {
-      "Id": "Sashimi",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Sushi",
-        "Food",
-        "Japan",
-        "Asiatic",
-        "Salmon"
-      ]
-    },
-    {
-      "Id": "SauceBottle",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Ketchup",
-        "Mayo"
-      ]
-    },
-    {
-      "Id": "Sausage",
-      "TypeIds": [
-        "Grilled",
-        "Regular"
-      ],
-      "Tags": [
-        "Meat",
-        "Pork",
-        "Food",
-        "Fast Food"
-      ]
-    },
-    {
-      "Id": "Seesaw",
-      "TypeIds": [
-        "Barrel"
-      ],
-      "Tags": [
-        "Park",
-        "Playground",
-        "Kid"
-      ]
-    },
-    {
-      "Id": "ShortTrafficCone",
-      "TypeIds": [
-        "Hole",
-        "Regular"
-      ],
-      "Tags": [
-        "Road",
-        "City",
-        "Street",
-        "Sport"
-      ]
-    },
-    {
-      "Id": "Shotgun",
-      "TypeIds": [
-        "Double",
-        "SingleCurved",
-        "SingleStraight",
-        "SingleStraight2"
-      ],
-      "Tags": [
-        "Weapon",
-        "Gun"
-      ]
-    },
-    {
-      "Id": "Shovel",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Tool",
-        "Hole",
-        "Dig"
-      ]
-    },
-    {
-      "Id": "SmallTrafficLight",
-      "TypeIds": [
-        "ThreeLight",
-        "TwoLight"
-      ],
-      "Tags": [
-        "Road",
-        "City",
-        "Street",
-        "Post",
-        "Semaphor"
-      ]
-    },
-    {
-      "Id": "Smartphone",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Gadget",
-        "Tool",
-        "Phone",
-        "Iphone",
-        "Telephone"
-      ]
-    },
-    {
-      "Id": "Snowman",
-      "TypeIds": [
-        "Full",
-        "Scarf",
-        "Simple"
-      ],
-      "Tags": [
-        "Ice",
-        "Christmas",
-        "Snow"
-      ]
-    },
-    {
-      "Id": "SodaBottle",
-      "TypeIds": [
-        "Large",
-        "Small"
-      ],
-      "Tags": [
-        "Juice",
-        "Plastic",
-        "Drink",
-        "Fast Food"
-      ]
-    },
-    {
-      "Id": "SodaCan",
-      "TypeIds": [
-        "Branded"
-      ],
-      "Tags": [
-        "Metal",
-        "Coke",
-        "Drink",
-        "Fast Food"
-      ]
-    },
-    {
-      "Id": "SphereLightPole",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Post",
-        "Street",
-        "City",
-        "Sidewalk"
-      ]
-    },
-    {
-      "Id": "SpikeTrap",
-      "TypeIds": [
-        "Lowered",
-        "Raised"
-      ],
-      "Tags": [
-        "Damage"
-      ]
-    },
-    {
-      "Id": "SprinklesDonut",
-      "TypeIds": [
-        "Bitten",
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Fast Food",
-        "Dough"
-      ]
-    },
-    {
-      "Id": "SquareTrashcan",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Trash",
-        "Litter",
-        "City"
-      ]
-    },
-    {
-      "Id": "StadiumChairs",
-      "TypeIds": [
-        "Six",
-        "Three",
-        "Two"
-      ],
-      "Tags": [
-        "Arena",
-        "Sport",
-        "Plastic"
-      ]
-    },
-    {
-      "Id": "StadiumLight",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Sport",
-        "Football",
-        "Soccer",
-        "Baseball"
-      ]
-    },
-    {
-      "Id": "StadiumSpotlight",
-      "TypeIds": [
-        "Large",
-        "LargeWagon",
-        "Small",
-        "SmallWagon"
-      ],
-      "Tags": [
-        "Show",
-        "Light",
-        "Sport"
-      ]
-    },
-    {
-      "Id": "Steak",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Meat",
-        "Cow"
-      ]
-    },
-    {
-      "Id": "StorageShelf",
-      "TypeIds": [
-        "Medium",
-        "Small"
-      ],
-      "Tags": []
-    },
-    {
-      "Id": "Strawberry",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Fruit",
-        "Berry"
-      ]
-    },
-    {
-      "Id": "Suitcase",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Travel",
-        "Trip",
-        "Bag"
-      ]
-    },
-    {
-      "Id": "Sushi",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Japan",
-        "Asiatic",
-        "Roll",
-        "Salmon",
-        "Food"
-      ]
-    },
-    {
-      "Id": "SwampTree",
-      "TypeIds": [
-        "Chopped1",
-        "Chopped2",
-        "Large1",
-        "Medium1",
-        "Medium2"
-      ],
-      "Tags": [
-        "Forest",
-        "Vegetation"
-      ]
-    },
-    {
-      "Id": "SwissCheese",
-      "TypeIds": [
-        "Slice"
-      ],
-      "Tags": [
-        "Food",
-        "Cow"
-      ]
-    },
-    {
-      "Id": "TallTrafficLight",
-      "TypeIds": [
-        "Double",
-        "DoubleOposite",
-        "Single"
-      ],
-      "Tags": [
-        "City",
-        "Street",
-        "Road",
-        "Semaphor"
-      ]
-    },
-    {
-      "Id": "TelephoneBooth",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Phone",
-        "City",
-        "Street"
-      ]
-    },
-    {
-      "Id": "TelephoneCabin",
-      "TypeIds": [
-        "Closed"
-      ],
-      "Tags": [
-        "Royal",
-        "Street",
-        "Phone"
-      ]
-    },
-    {
-      "Id": "ThinTree",
-      "TypeIds": [
-        "Medium1",
-        "Medium2"
-      ],
-      "Tags": [
-        "Forest",
-        "Vegetation"
-      ]
-    },
-    {
-      "Id": "Tomato",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Fruit",
-        "Vegetable"
-      ]
-    },
-    {
-      "Id": "Torch",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Tool",
-        "Fire",
-        "Flame",
-        "Light"
-      ]
-    },
-    {
-      "Id": "TrafficCone",
-      "TypeIds": [
-        "LargeBase",
-        "Regular"
-      ],
-      "Tags": [
-        "City",
-        "Street",
-        "Road"
-      ]
-    },
-    {
-      "Id": "TrafficSignRound",
-      "TypeIds": [
-        "Regular",
-        "Sign"
-      ],
-      "Tags": [
-        "City",
-        "Street",
-        "Road"
-      ]
-    },
-    {
-      "Id": "TrainTrafficLight",
-      "TypeIds": [
-        "Double"
-      ],
-      "Tags": [
-        "City",
-        "Road",
-        "Street"
-      ]
-    },
-    {
-      "Id": "TravelBackpack",
-      "TypeIds": [
-        "Rolled"
-      ],
-      "Tags": [
-        "Bag",
-        "Camp",
-        "Trip",
-        "Luggage"
-      ]
-    },
-    {
-      "Id": "TravelBag",
-      "TypeIds": [
-        "Long"
-      ],
-      "Tags": [
-        "Luggage",
-        "Travel"
-      ]
-    },
-    {
-      "Id": "TriTrafficSign",
-      "TypeIds": [
-        "Regular",
-        "Sign"
-      ],
-      "Tags": [
-        "Road",
-        "Street",
-        "City"
-      ]
-    },
-    {
-      "Id": "TunaCan",
-      "TypeIds": [
-        "Opened",
-        "Regular"
-      ],
-      "Tags": [
-        "Food",
-        "Fish"
-      ]
-    },
-    {
-      "Id": "VendingMachine",
-      "TypeIds": [
-        "Empty",
-        "Full",
-        "Labeled"
-      ],
-      "Tags": [
-        "City",
-        "Sidewalk",
-        "Food"
-      ]
-    },
-    {
-      "Id": "VintageLightPole",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Light",
-        "Pole",
-        "Post"
-      ]
-    },
-    {
-      "Id": "WaterBottle",
-      "TypeIds": [
-        "Branded",
-        "Bumpy",
-        "Smooth"
-      ],
-      "Tags": [
-        "Drink",
-        "Plastic"
-      ]
-    },
-    {
-      "Id": "WaterJar",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Dispenser",
-        "Flower"
-      ]
-    },
-    {
-      "Id": "Watermelon",
-      "TypeIds": [
-        "Slice"
-      ],
-      "Tags": [
-        "Food",
-        "Fruit"
-      ]
-    },
-    {
-      "Id": "Well",
-      "TypeIds": [
-        "Empty",
-        "Filled"
-      ],
-      "Tags": []
-    },
-    {
-      "Id": "WheeledTrashcan",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Trash",
-        "Litter",
-        "Bin",
-        "City",
-        "Street"
-      ]
-    },
-    {
-      "Id": "WineBottle",
-      "TypeIds": [
-        "Regular"
-      ],
-      "Tags": [
-        "Drink",
-        "Glass",
-        "Alcohol",
-        "Liqour"
-      ]
-    },
-    {
-      "Id": "WineGlass",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Cup",
-        "Calice"
-      ]
-    },
-    {
-      "Id": "WoodBarrel",
-      "TypeIds": [
-        "Curved",
-        "ExtraCurved",
-        "Straight"
-      ],
-      "Tags": [
-        "Ship",
-        "Pirate",
-        "Wine"
-      ]
-    },
-    {
-      "Id": "WoodBarricade",
-      "TypeIds": [
-        "Damaged",
-        "Normal",
-        "Simple"
-      ],
-      "Tags": [
-        "Barrier",
-        "Fort"
-      ]
-    },
-    {
-      "Id": "WoodCrate",
-      "TypeIds": [
-        "Large",
-        "Regular"
-      ],
-      "Tags": [
-        "Package",
-        "Storage",
-        "Delivery"
-      ]
-    },
-    {
-      "Id": "WoodDirectionSign",
-      "TypeIds": [
-        "Double",
-        "Single"
-      ],
-      "Tags": [
-        "Path",
-        "Village"
-      ]
-    },
-    {
-      "Id": "WoodRoundFence",
-      "TypeIds": [
-        "Damaged",
-        "Damaged2",
-        "Damaged3",
-        "Damaged4",
-        "Half",
-        "Pillar",
-        "Single"
-      ],
-      "Tags": [
-        "Path",
-        "Barrier"
-      ]
-    },
-    {
-      "Id": "WoodSemiRoundFence",
-      "TypeIds": [
-        "Damaged",
-        "Damaged2",
-        "Damaged3",
-        "Half",
-        "Pillar",
-        "Single"
-      ],
-      "Tags": [
-        "Path",
-        "Barrier"
-      ]
-    },
-    {
-      "Id": "WoodSpikeFence",
-      "TypeIds": [
-        "Damaged",
-        "Damaged2",
-        "Half",
-        "Pillar",
-        "Single"
-      ],
-      "Tags": [
-        "Path",
-        "House",
-        "Barrier"
-      ]
-    },
-    {
-      "Id": "WoodStackFence",
-      "TypeIds": [
-        "Single",
-        "Single2",
-        "Single3"
-      ],
-      "Tags": [
-        "Path",
-        "Barrier"
-      ]
-    },
-    {
-      "Id": "WoodStraightFence",
-      "TypeIds": [
-        "Damaged",
-        "Damaged2",
-        "Damaged3",
-        "Half",
-        "Pillar",
-        "Single"
-      ],
-      "Tags": [
-        "Path",
-        "Barrier",
-        "House"
-      ]
-    },
-    {
-      "Id": "WorkBag",
-      "TypeIds": [
-        "Medium"
-      ],
-      "Tags": [
-        "Luggage",
-        "Work",
-        "School",
-        "Backpack"
-      ]
-    }
-  ]
+    "Id": "general",
+    "Version": {
+        "major": 1,
+        "minor": 1,
+        "subversions": [
+            0
+        ]
+    },
+    "Items": [
+        {
+            "Id": "AdSign",
+            "TypeIds": [
+                "Clear",
+                "Map"
+            ],
+            "Tags": [
+                "Ad",
+                "Sign"
+            ]
+        },
+        {
+            "Id": "AidKit",
+            "TypeIds": [
+                "Medium",
+                "Small"
+            ],
+            "Tags": [
+                "Aid",
+                "Heal"
+            ]
+        },
+        {
+            "Id": "Apple",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Fruit",
+                "Food",
+                "Juice"
+            ]
+        },
+        {
+            "Id": "ATM",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Money",
+                "Machine",
+                "Multibank"
+            ]
+        },
+        {
+            "Id": "Axe",
+            "TypeIds": [
+                "Small",
+                "SmallFire"
+            ],
+            "Tags": [
+                "Woodchopper"
+            ]
+        },
+        {
+            "Id": "BabyBottle",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Milk",
+                "Baby",
+                "Drink"
+            ]
+        },
+        {
+            "Id": "Bacon",
+            "TypeIds": [
+                "Single"
+            ],
+            "Tags": [
+                "Pork",
+                "Grilled",
+                "Meat",
+                "Food"
+            ]
+        },
+        {
+            "Id": "Baguette",
+            "TypeIds": [
+                "aa",
+                "Regular"
+            ],
+            "Tags": [
+                "Bread",
+                "Bakery",
+                "Dough",
+                "Food"
+            ]
+        },
+        {
+            "Id": "BalloonGlass",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Cup",
+                "Wine"
+            ]
+        },
+        {
+            "Id": "Banana",
+            "TypeIds": [
+                "Pack",
+                "Single"
+            ],
+            "Tags": [
+                "Fruit",
+                "Monkey",
+                "Tropical",
+                "Food"
+            ]
+        },
+        {
+            "Id": "Bandage",
+            "TypeIds": [
+                "Single"
+            ],
+            "Tags": [
+                "Heal",
+                "Bandaid"
+            ]
+        },
+        {
+            "Id": "Battery",
+            "TypeIds": [
+                "AA",
+                "AAA",
+                "C"
+            ],
+            "Tags": [
+                "Energy",
+                "Remote",
+                "Power",
+                "Cell"
+            ]
+        },
+        {
+            "Id": "BeerGlass",
+            "TypeIds": [
+                "Filled"
+            ],
+            "Tags": [
+                "Pint",
+                "Jar",
+                "Brew",
+                "Alcohol",
+                "Drink"
+            ]
+        },
+        {
+            "Id": "BigDumpster",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Trash",
+                "Garbage",
+                "Container"
+            ]
+        },
+        {
+            "Id": "BigIsland",
+            "TypeIds": [
+                "Simple1"
+            ],
+            "Tags": [
+                "Land",
+                "Ground"
+            ]
+        },
+        {
+            "Id": "BigPineTree",
+            "TypeIds": [
+                "Medium1"
+            ],
+            "Tags": [
+                "Forest",
+                "Wood",
+                "Plant"
+            ]
+        },
+        {
+            "Id": "BigPot",
+            "TypeIds": [
+                "Medium",
+                "Tall"
+            ],
+            "Tags": [
+                "Cook",
+                "Cauldron",
+                "Pan"
+            ]
+        },
+        {
+            "Id": "Blackberry",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Fruit",
+                "Berry",
+                "Wild",
+                "Food"
+            ]
+        },
+        {
+            "Id": "Bollard",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Pole",
+                "Street",
+                "Road"
+            ]
+        },
+        {
+            "Id": "BoxingRing",
+            "TypeIds": [
+                "Standard"
+            ],
+            "Tags": [
+                "Stadium",
+                "Sports",
+                "Fight"
+            ]
+        },
+        {
+            "Id": "BreadLoaf",
+            "TypeIds": [
+                "Half",
+                "Regular",
+                "Slice"
+            ],
+            "Tags": [
+                "Dough",
+                "Bun",
+                "Food"
+            ]
+        },
+        {
+            "Id": "BrickWall",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Construction"
+            ]
+        },
+        {
+            "Id": "BrokenGlass",
+            "TypeIds": [
+                "Type1",
+                "Type2",
+                "Type3"
+            ],
+            "Tags": [
+                "Litter",
+                "Misc",
+                "Trash"
+            ]
+        },
+        {
+            "Id": "Burger",
+            "TypeIds": [
+                "Double",
+                "Single"
+            ],
+            "Tags": [
+                "Fast Food",
+                "Bun",
+                "Hamburger",
+                "Cheese",
+                "Patty",
+                "Beef"
+            ]
+        },
+        {
+            "Id": "Cactus",
+            "TypeIds": [
+                "double",
+                "quad",
+                "single",
+                "tall"
+            ],
+            "Tags": [
+                "Plant",
+                "Desert",
+                "Bush"
+            ]
+        },
+        {
+            "Id": "Cake",
+            "TypeIds": [
+                "Regular",
+                "Slice",
+                "Slice"
+            ],
+            "Tags": [
+                "Bakery",
+                "Birthday",
+                "Dessert",
+                "Food",
+                "Sweet"
+            ]
+        },
+        {
+            "Id": "CargoContainer",
+            "TypeIds": [
+                "Large",
+                "Small"
+            ],
+            "Tags": [
+                "Ship",
+                "Shipping",
+                "Crate"
+            ]
+        },
+        {
+            "Id": "CheeseWheel",
+            "TypeIds": [
+                "Cutted",
+                "Slice"
+            ],
+            "Tags": [
+                "Food"
+            ]
+        },
+        {
+            "Id": "Cherry",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Fruit",
+                "Food"
+            ]
+        },
+        {
+            "Id": "ChickenThigh",
+            "TypeIds": [
+                "Single"
+            ],
+            "Tags": [
+                "Meat",
+                "Food",
+                "Leg",
+                "Drumstick"
+            ]
+        },
+        {
+            "Id": "CigarreteEnd",
+            "TypeIds": [
+                "Type1",
+                "Type2",
+                "Type3",
+                "Type4",
+                "Type5"
+            ],
+            "Tags": [
+                "Litter",
+                "Trash",
+                "Misc"
+            ]
+        },
+        {
+            "Id": "CinderBlock",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Cement",
+                "Brick",
+                "Construction"
+            ]
+        },
+        {
+            "Id": "ClawTrap",
+            "TypeIds": [
+                "Closed",
+                "Open"
+            ],
+            "Tags": [
+                "Hunt"
+            ]
+        },
+        {
+            "Id": "Cliff",
+            "TypeIds": [
+                "Complex1",
+                "Complex2",
+                "Complex3",
+                "Complex4",
+                "Simple1",
+                "Simple2",
+                "Simple3",
+                "Simple4"
+            ],
+            "Tags": [
+                "Ground",
+                "Island",
+                "Land",
+                "Mountain"
+            ]
+        },
+        {
+            "Id": "CocktailGlass",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Cup",
+                "Alcohol",
+                "Glass",
+                "Martini"
+            ]
+        },
+        {
+            "Id": "CoffeeMug",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Teacup",
+                "Cup"
+            ]
+        },
+        {
+            "Id": "Coin",
+            "TypeIds": [
+                "Dollar",
+                "Simple",
+                "Stripe"
+            ],
+            "Tags": [
+                "Money",
+                "Dollar",
+                "Gold",
+                "Cash"
+            ]
+        },
+        {
+            "Id": "ColoredDonut",
+            "TypeIds": [
+                "Bitten",
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Dessert",
+                "Fast"
+            ]
+        },
+        {
+            "Id": "Compass",
+            "TypeIds": [
+                "Closed",
+                "Opened"
+            ],
+            "Tags": [
+                "Tool",
+                "Navigation"
+            ]
+        },
+        {
+            "Id": "ComputerMonitor",
+            "TypeIds": [
+                "Standard"
+            ],
+            "Tags": []
+        },
+        {
+            "Id": "ConcreteBench",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Park",
+                "Garden"
+            ]
+        },
+        {
+            "Id": "ConcreteWall",
+            "TypeIds": [
+                "Tall"
+            ],
+            "Tags": [
+                "Barrier",
+                "City"
+            ]
+        },
+        {
+            "Id": "ConeIceCream",
+            "TypeIds": [
+                "Chocolate",
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Dessert"
+            ]
+        },
+        {
+            "Id": "Cookie",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Chip",
+                "Chocolate",
+                "Biscuit"
+            ]
+        },
+        {
+            "Id": "Corn",
+            "TypeIds": [
+                "Dashed",
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Vegetable",
+                "Grain"
+            ]
+        },
+        {
+            "Id": "CrystalCluster",
+            "TypeIds": [
+                "Medium1",
+                "Medium2",
+                "Medium3",
+                "Medium4",
+                "Medium5",
+                "Medium6",
+                "Medium7",
+                "Medium8"
+            ],
+            "Tags": [
+                "Rock",
+                "Quartz",
+                "Stone",
+                "Precious"
+            ]
+        },
+        {
+            "Id": "CurvedTrafficLight",
+            "TypeIds": [
+                "Double",
+                "DoubleSign",
+                "Single"
+            ],
+            "Tags": [
+                "Post",
+                "City",
+                "Road"
+            ]
+        },
+        {
+            "Id": "Donut",
+            "TypeIds": [
+                "Bitten",
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Dessert",
+                "Fast"
+            ]
+        },
+        {
+            "Id": "DrinkingFountain",
+            "TypeIds": [
+                "Empty",
+                "LargeEmpty"
+            ],
+            "Tags": [
+                "Park",
+                "Water",
+                "Dispenser"
+            ]
+        },
+        {
+            "Id": "Dumpster",
+            "TypeIds": [
+                "Closed",
+                "Open"
+            ],
+            "Tags": [
+                "Trash",
+                "Litter",
+                "City"
+            ]
+        },
+        {
+            "Id": "Egg",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Food",
+                "Chicken"
+            ]
+        },
+        {
+            "Id": "Eggplant",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Vegetable"
+            ]
+        },
+        {
+            "Id": "ElectricBox",
+            "TypeIds": [
+                "Double",
+                "Single"
+            ],
+            "Tags": [
+                "City",
+                "Shock",
+                "Current"
+            ]
+        },
+        {
+            "Id": "ElectricPole",
+            "TypeIds": [
+                "Cables",
+                "Regular"
+            ],
+            "Tags": [
+                "Post",
+                "City",
+                "Road"
+            ]
+        },
+        {
+            "Id": "FireHydrant",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Water",
+                "City",
+                "Road",
+                "Firefight"
+            ]
+        },
+        {
+            "Id": "Fireplace",
+            "TypeIds": [
+                "Baseless",
+                "Empty",
+                "Regular"
+            ],
+            "Tags": [
+                "Fire",
+                "Barbecue",
+                "Blaze"
+            ]
+        },
+        {
+            "Id": "FlareGun",
+            "TypeIds": [
+                "Short"
+            ],
+            "Tags": [
+                "Weapon",
+                "Fire",
+                "Signal",
+                "Pistol",
+                "Revolver"
+            ]
+        },
+        {
+            "Id": "Flaslight",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Light",
+                "Tool",
+                "Hand"
+            ]
+        },
+        {
+            "Id": "FoodCan",
+            "TypeIds": [
+                "Branded",
+                "Damaged",
+                "Opened",
+                "Regular"
+            ],
+            "Tags": [
+                "Jar",
+                "Soup",
+                "Tomato"
+            ]
+        },
+        {
+            "Id": "Football",
+            "TypeIds": [
+                "Lowpoly",
+                "Regular"
+            ],
+            "Tags": [
+                "Soccer",
+                "Ball",
+                "Sport"
+            ]
+        },
+        {
+            "Id": "Fountain",
+            "TypeIds": [
+                "Empty",
+                "Filled"
+            ],
+            "Tags": [
+                "Park",
+                "Water",
+                "Spring"
+            ]
+        },
+        {
+            "Id": "FriedEgg",
+            "TypeIds": [
+                "Medium",
+                "Medium2",
+                "Medium3"
+            ],
+            "Tags": [
+                "Food",
+                "Frying Pan"
+            ]
+        },
+        {
+            "Id": "Fries",
+            "TypeIds": [
+                "Regular",
+                "Single"
+            ],
+            "Tags": [
+                "Potato",
+                "Fast Food"
+            ]
+        },
+        {
+            "Id": "GarbageBag",
+            "TypeIds": [
+                "Type1",
+                "Type2",
+                "Type3"
+            ],
+            "Tags": [
+                "Plastic",
+                "Trash",
+                "Litter",
+                "City"
+            ]
+        },
+        {
+            "Id": "GasBottle",
+            "TypeIds": [
+                "Long",
+                "Short"
+            ],
+            "Tags": [
+                "Butane",
+                "Propane",
+                "Tank",
+                "Fuel"
+            ]
+        },
+        {
+            "Id": "GasCan",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Gasoline",
+                "Jerry",
+                "Fuel",
+                "Oil",
+                "Petrol"
+            ]
+        },
+        {
+            "Id": "GasPump",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Gasoline",
+                "Stand",
+                "Fuel",
+                "Oil"
+            ]
+        },
+        {
+            "Id": "GiftBox",
+            "TypeIds": [
+                "Large",
+                "Medium",
+                "Small"
+            ],
+            "Tags": [
+                "Present",
+                "Birthday",
+                "Christmas"
+            ]
+        },
+        {
+            "Id": "GlazedDonut",
+            "TypeIds": [
+                "Bitten",
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Dessert",
+                "Fast"
+            ]
+        },
+        {
+            "Id": "Gum",
+            "TypeIds": [
+                "Type1",
+                "Type2",
+                "Type3",
+                "Type4",
+                "Type5"
+            ],
+            "Tags": [
+                "Chewing",
+                "Bubble",
+                "Food",
+                "Sweet"
+            ]
+        },
+        {
+            "Id": "Gummybear",
+            "TypeIds": [
+                "Bitten",
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Jelly"
+            ]
+        },
+        {
+            "Id": "HandSuitcase",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Luggage",
+                "Bag",
+                "Travel",
+                "Satchel"
+            ]
+        },
+        {
+            "Id": "HexTrafficSign",
+            "TypeIds": [
+                "Regular",
+                "Sign"
+            ],
+            "Tags": [
+                "City",
+                "Road"
+            ]
+        },
+        {
+            "Id": "HomeTrashcan",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Trash",
+                "Litter",
+                "House"
+            ]
+        },
+        {
+            "Id": "HoneyPot",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Food",
+                "Sweet",
+                "Bee"
+            ]
+        },
+        {
+            "Id": "HotdogStand",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "City",
+                "Fast Food"
+            ]
+        },
+        {
+            "Id": "InfoSign",
+            "TypeIds": [
+                "Clear",
+                "Written"
+            ],
+            "Tags": [
+                "Ad",
+                "City",
+                "Sidewalk"
+            ]
+        },
+        {
+            "Id": "Island",
+            "TypeIds": [
+                "Simple1",
+                "Simple2",
+                "Simple3",
+                "Simple4"
+            ],
+            "Tags": [
+                "Land",
+                "Ground"
+            ]
+        },
+        {
+            "Id": "JuiceBottle",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Drink",
+                "Plastic"
+            ]
+        },
+        {
+            "Id": "JuiceGlass",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Cup",
+                "Water"
+            ]
+        },
+        {
+            "Id": "Kettle",
+            "TypeIds": [
+                "Medium",
+                "Small"
+            ],
+            "Tags": [
+                "Tea",
+                "Water",
+                "Boil"
+            ]
+        },
+        {
+            "Id": "Knife",
+            "TypeIds": [
+                "Straight"
+            ],
+            "Tags": [
+                "Weapon",
+                "Blade",
+                "Dagger"
+            ]
+        },
+        {
+            "Id": "Leek",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Vegetable"
+            ]
+        },
+        {
+            "Id": "Lemon",
+            "TypeIds": [
+                "Regular",
+                "Sliced"
+            ],
+            "Tags": [
+                "Food",
+                "Fruit",
+                "Juice"
+            ]
+        },
+        {
+            "Id": "Lettuce",
+            "TypeIds": [
+                "Medium",
+                "Medium2",
+                "Medium3"
+            ],
+            "Tags": [
+                "Food",
+                "Vegetable"
+            ]
+        },
+        {
+            "Id": "LightPole",
+            "TypeIds": [
+                "Double",
+                "Single"
+            ],
+            "Tags": [
+                "Road",
+                "Post",
+                "City"
+            ]
+        },
+        {
+            "Id": "Locker",
+            "TypeIds": [
+                "Single"
+            ],
+            "Tags": [
+                "School",
+                "Metal",
+                "Vault"
+            ]
+        },
+        {
+            "Id": "Lollipop",
+            "TypeIds": [
+                "Bump",
+                "Round",
+                "Swirl"
+            ],
+            "Tags": [
+                "Food",
+                "Sweet"
+            ]
+        },
+        {
+            "Id": "LosangTrafficSign",
+            "TypeIds": [
+                "Regular",
+                "Sign"
+            ],
+            "Tags": [
+                "Road",
+                "City",
+                "Post"
+            ]
+        },
+        {
+            "Id": "Mailbox",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "City",
+                "Sidewalk",
+                "Mail",
+                "Post",
+                "Letter"
+            ]
+        },
+        {
+            "Id": "Match",
+            "TypeIds": [
+                "Lit",
+                "Unlit"
+            ],
+            "Tags": [
+                "Fire",
+                "Burn"
+            ]
+        },
+        {
+            "Id": "Matchbox",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Fire"
+            ]
+        },
+        {
+            "Id": "MediumTrafficLight",
+            "TypeIds": [
+                "DoubleOposite",
+                "OpositeSide",
+                "SameSide"
+            ],
+            "Tags": [
+                "Road",
+                "City"
+            ]
+        },
+        {
+            "Id": "MenuSign",
+            "TypeIds": [
+                "Clear"
+            ],
+            "Tags": [
+                "Sidewalk",
+                "Restaurant"
+            ]
+        },
+        {
+            "Id": "MetalBarrel",
+            "TypeIds": [
+                "Short",
+                "Tall"
+            ],
+            "Tags": [
+                "Restaurant",
+                "Tank",
+                "Beer",
+                "Alcohol"
+            ]
+        },
+        {
+            "Id": "MetalBarrier",
+            "TypeIds": [
+                "Half",
+                "Pillar",
+                "Single"
+            ],
+            "Tags": [
+                "Fence",
+                "City",
+                "Road"
+            ]
+        },
+        {
+            "Id": "MetalChair",
+            "TypeIds": [
+                "Folded",
+                "Standard"
+            ],
+            "Tags": [
+                "Sports",
+                "Fight",
+                "Metallic"
+            ]
+        },
+        {
+            "Id": "MetalDirectionSign",
+            "TypeIds": [
+                "Type1",
+                "Type2",
+                "Type3",
+                "Type4"
+            ],
+            "Tags": [
+                "City",
+                "Road",
+                "Post"
+            ]
+        },
+        {
+            "Id": "MetalGridFence",
+            "TypeIds": [
+                "Damaged",
+                "Normal",
+                "Simple"
+            ],
+            "Tags": [
+                "Barrier",
+                "Rail"
+            ]
+        },
+        {
+            "Id": "MetalSpikeFence",
+            "TypeIds": [
+                "CurveDown",
+                "CurveUp",
+                "Normal"
+            ],
+            "Tags": [
+                "Gate",
+                "Barrier",
+                "Rail"
+            ]
+        },
+        {
+            "Id": "MilkCarton",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Drink",
+                "Cow",
+                "Bottle"
+            ]
+        },
+        {
+            "Id": "ModernFireplace",
+            "TypeIds": [
+                "Ashes",
+                "Empty"
+            ],
+            "Tags": [
+                "Fire",
+                "Barbecue"
+            ]
+        },
+        {
+            "Id": "MuseumBarrier",
+            "TypeIds": [
+                "Damaged1",
+                "Damaged2",
+                "Half",
+                "Pillar",
+                "Single"
+            ],
+            "Tags": [
+                "Gallery",
+                "Exhibit",
+                "Pole",
+                "Rope"
+            ]
+        },
+        {
+            "Id": "MusicContainer",
+            "TypeIds": [
+                "Medium",
+                "Small"
+            ],
+            "Tags": [
+                "Concert",
+                "Box",
+                "Audio"
+            ]
+        },
+        {
+            "Id": "Onion",
+            "TypeIds": [
+                "Brown",
+                "Green"
+            ],
+            "Tags": [
+                "Food",
+                "Vegetable"
+            ]
+        },
+        {
+            "Id": "Orange",
+            "TypeIds": [
+                "Regular",
+                "Sliced"
+            ],
+            "Tags": [
+                "Food",
+                "Fruit",
+                "Juice"
+            ]
+        },
+        {
+            "Id": "OrnateBollard",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "City",
+                "Road",
+                "Sidewalk",
+                "Pole",
+                "Post"
+            ]
+        },
+        {
+            "Id": "OrnateSewerLid",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Drain",
+                "Gutter",
+                "Cover"
+            ]
+        },
+        {
+            "Id": "PackageBox",
+            "TypeIds": [
+                "Large",
+                "Medium"
+            ],
+            "Tags": [
+                "Cardbox",
+                "Delivery",
+                "Packet",
+                "Carton"
+            ]
+        },
+        {
+            "Id": "Paddle",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Boat",
+                "Wade",
+                "Row",
+                "Sail"
+            ]
+        },
+        {
+            "Id": "Pallet",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Storage",
+                "Wood"
+            ]
+        },
+        {
+            "Id": "PalmTree",
+            "TypeIds": [
+                "Medium1",
+                "Medium2",
+                "Small"
+            ],
+            "Tags": [
+                "Island",
+                "Tropical",
+                "Beach"
+            ]
+        },
+        {
+            "Id": "Pan",
+            "TypeIds": [
+                "Medium",
+                "Small"
+            ],
+            "Tags": [
+                "Kitchen",
+                "Cook",
+                "Frying"
+            ]
+        },
+        {
+            "Id": "PaperBallCrumble",
+            "TypeIds": [
+                "Type1",
+                "Type10",
+                "Type2",
+                "Type3",
+                "Type4",
+                "Type5",
+                "Type6",
+                "Type7",
+                "Type8",
+                "Type9"
+            ],
+            "Tags": [
+                "Trash",
+                "Litter",
+                "Damaged"
+            ]
+        },
+        {
+            "Id": "PaperCrumble",
+            "TypeIds": [
+                "Type1",
+                "Type2",
+                "Type3",
+                "Type4",
+                "Type5",
+                "Type6",
+                "Type7",
+                "Type8",
+                "Type9"
+            ],
+            "Tags": [
+                "Trash",
+                "Litter"
+            ]
+        },
+        {
+            "Id": "Parasol",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Shade",
+                "Sun"
+            ]
+        },
+        {
+            "Id": "ParkBench",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Garden"
+            ]
+        },
+        {
+            "Id": "ParkingMeter",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "City",
+                "Car",
+                "Coin",
+                "Road"
+            ]
+        },
+        {
+            "Id": "ParkSlide",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Kid",
+                "Playground"
+            ]
+        },
+        {
+            "Id": "ParkSpinner",
+            "TypeIds": [
+                "Regular",
+                "Striped"
+            ],
+            "Tags": [
+                "Kid",
+                "Playground"
+            ]
+        },
+        {
+            "Id": "ParkSwing",
+            "TypeIds": [
+                "Double"
+            ],
+            "Tags": [
+                "Kids",
+                "Playground"
+            ]
+        },
+        {
+            "Id": "ParkTrashcan",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Wood",
+                "Trash",
+                "Litter",
+                "Bin"
+            ]
+        },
+        {
+            "Id": "Peanut",
+            "TypeIds": [
+                "Opened",
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Fruit",
+                "Dried"
+            ]
+        },
+        {
+            "Id": "Pear",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Fruit",
+                "Food"
+            ]
+        },
+        {
+            "Id": "Pickle",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Vegetable"
+            ]
+        },
+        {
+            "Id": "PicnicTable",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Park",
+                "Wood"
+            ]
+        },
+        {
+            "Id": "Pie",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Dessert",
+                "Apple"
+            ]
+        },
+        {
+            "Id": "PileOfBooks",
+            "TypeIds": [
+                "Type1"
+            ],
+            "Tags": [
+                "Misc",
+                "Trash"
+            ]
+        },
+        {
+            "Id": "Pineapple",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Fruit",
+                "Food"
+            ]
+        },
+        {
+            "Id": "PineTree",
+            "TypeIds": [
+                "Chopped",
+                "Medium1",
+                "Medium2"
+            ],
+            "Tags": [
+                "Forest"
+            ]
+        },
+        {
+            "Id": "Pistol",
+            "TypeIds": [
+                "Single",
+                "Single2"
+            ],
+            "Tags": [
+                "Weapon",
+                "Gun",
+                "Revolver"
+            ]
+        },
+        {
+            "Id": "Pizza",
+            "TypeIds": [
+                "Regular",
+                "Slice"
+            ],
+            "Tags": [
+                "Food",
+                "Fast Food",
+                "Pepperoni",
+                "Slice"
+            ]
+        },
+        {
+            "Id": "PlasticBarrier",
+            "TypeIds": [
+                "Double",
+                "Single"
+            ],
+            "Tags": [
+                "Road",
+                "City",
+                "Fence"
+            ]
+        },
+        {
+            "Id": "PorkCutlet",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Meat",
+                "Bone",
+                "Food"
+            ]
+        },
+        {
+            "Id": "PortableRadio",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Tool",
+                "Music",
+                "Mp3"
+            ]
+        },
+        {
+            "Id": "PortaPotty",
+            "TypeIds": [
+                "Closed",
+                "Open"
+            ],
+            "Tags": [
+                "Bathroom",
+                "Portable",
+                "Street"
+            ]
+        },
+        {
+            "Id": "Pot",
+            "TypeIds": [
+                "Medium",
+                "Small"
+            ],
+            "Tags": [
+                "Kichen",
+                "Cauldron"
+            ]
+        },
+        {
+            "Id": "Raft",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Boat",
+                "Inflatable",
+                "Sail"
+            ]
+        },
+        {
+            "Id": "Raspberry",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Fruit",
+                "Berry",
+                "Food",
+                "Wild"
+            ]
+        },
+        {
+            "Id": "Revolver",
+            "TypeIds": [
+                "Long",
+                "Long2",
+                "Short"
+            ],
+            "Tags": [
+                "Gun",
+                "Weapon",
+                "Pistol"
+            ]
+        },
+        {
+            "Id": "RoadworkSign",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Barrier",
+                "Road",
+                "City",
+                "Street"
+            ]
+        },
+        {
+            "Id": "Rock",
+            "TypeIds": [
+                "Flat1",
+                "Flat2",
+                "Flat3",
+                "Round1",
+                "Round2",
+                "Round3",
+                "Round4",
+                "Round5",
+                "Round6",
+                "Round7",
+                "Tall1",
+                "Tall2",
+                "Tall3",
+                "Tall4"
+            ],
+            "Tags": [
+                "Stone",
+                "Boulder"
+            ]
+        },
+        {
+            "Id": "RoundTrashcan",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Trash",
+                "City",
+                "Litter",
+                "Bin"
+            ]
+        },
+        {
+            "Id": "RoundTree",
+            "TypeIds": [
+                "Medium1",
+                "Medium2",
+                "Medium3",
+                "Small1"
+            ],
+            "Tags": [
+                "Vegetation"
+            ]
+        },
+        {
+            "Id": "RoyalMailbox",
+            "TypeIds": [
+                "Regular",
+                "Spiked"
+            ],
+            "Tags": [
+                "Post",
+                "Mail",
+                "Sidewalk"
+            ]
+        },
+        {
+            "Id": "RumBottle",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Drink",
+                "Glass",
+                "Cork",
+                "Alcohol"
+            ]
+        },
+        {
+            "Id": "SandwichCookie",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Chocolate",
+                "Oreo",
+                "Biscuit",
+                "Chip",
+                "Food",
+                "Sweet"
+            ]
+        },
+        {
+            "Id": "Sashimi",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Sushi",
+                "Food",
+                "Japan",
+                "Asiatic",
+                "Salmon"
+            ]
+        },
+        {
+            "Id": "SauceBottle",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Ketchup",
+                "Mayo"
+            ]
+        },
+        {
+            "Id": "Sausage",
+            "TypeIds": [
+                "Grilled",
+                "Regular"
+            ],
+            "Tags": [
+                "Meat",
+                "Pork",
+                "Food",
+                "Fast Food"
+            ]
+        },
+        {
+            "Id": "Seesaw",
+            "TypeIds": [
+                "Barrel"
+            ],
+            "Tags": [
+                "Park",
+                "Playground",
+                "Kid"
+            ]
+        },
+        {
+            "Id": "ShortTrafficCone",
+            "TypeIds": [
+                "Hole",
+                "Regular"
+            ],
+            "Tags": [
+                "Road",
+                "City",
+                "Street",
+                "Sport"
+            ]
+        },
+        {
+            "Id": "Shotgun",
+            "TypeIds": [
+                "Double",
+                "SingleCurved",
+                "SingleStraight",
+                "SingleStraight2"
+            ],
+            "Tags": [
+                "Weapon",
+                "Gun"
+            ]
+        },
+        {
+            "Id": "Shovel",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Tool",
+                "Hole",
+                "Dig"
+            ]
+        },
+        {
+            "Id": "SmallTrafficLight",
+            "TypeIds": [
+                "ThreeLight",
+                "TwoLight"
+            ],
+            "Tags": [
+                "Road",
+                "City",
+                "Street",
+                "Post",
+                "Semaphor"
+            ]
+        },
+        {
+            "Id": "Smartphone",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Gadget",
+                "Tool",
+                "Phone",
+                "Iphone",
+                "Telephone"
+            ]
+        },
+        {
+            "Id": "Snowman",
+            "TypeIds": [
+                "Full",
+                "Scarf",
+                "Simple"
+            ],
+            "Tags": [
+                "Ice",
+                "Christmas",
+                "Snow"
+            ]
+        },
+        {
+            "Id": "SodaBottle",
+            "TypeIds": [
+                "Large",
+                "Small"
+            ],
+            "Tags": [
+                "Juice",
+                "Plastic",
+                "Drink",
+                "Fast Food"
+            ]
+        },
+        {
+            "Id": "SodaCan",
+            "TypeIds": [
+                "Branded"
+            ],
+            "Tags": [
+                "Metal",
+                "Coke",
+                "Drink",
+                "Fast Food"
+            ]
+        },
+        {
+            "Id": "SphereLightPole",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Post",
+                "Street",
+                "City",
+                "Sidewalk"
+            ]
+        },
+        {
+            "Id": "SpikeTrap",
+            "TypeIds": [
+                "Lowered",
+                "Raised"
+            ],
+            "Tags": [
+                "Damage"
+            ]
+        },
+        {
+            "Id": "SprinklesDonut",
+            "TypeIds": [
+                "Bitten",
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Fast Food",
+                "Dough"
+            ]
+        },
+        {
+            "Id": "SquareTrashcan",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Trash",
+                "Litter",
+                "City"
+            ]
+        },
+        {
+            "Id": "StadiumChairs",
+            "TypeIds": [
+                "Six",
+                "Three",
+                "Two"
+            ],
+            "Tags": [
+                "Arena",
+                "Sport",
+                "Plastic"
+            ]
+        },
+        {
+            "Id": "StadiumLight",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Sport",
+                "Football",
+                "Soccer",
+                "Baseball"
+            ]
+        },
+        {
+            "Id": "StadiumScreen",
+            "TypeIds": [
+                "Standard"
+            ],
+            "Tags": [
+                "TV"
+            ]
+        },
+        {
+            "Id": "StadiumSpotlight",
+            "TypeIds": [
+                "Large",
+                "LargeWagon",
+                "Small",
+                "SmallWagon"
+            ],
+            "Tags": [
+                "Show",
+                "Light",
+                "Sport"
+            ]
+        },
+        {
+            "Id": "Steak",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Meat",
+                "Cow"
+            ]
+        },
+        {
+            "Id": "StorageShelf",
+            "TypeIds": [
+                "Medium",
+                "Small"
+            ],
+            "Tags": []
+        },
+        {
+            "Id": "Strawberry",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Fruit",
+                "Berry"
+            ]
+        },
+        {
+            "Id": "Suitcase",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Travel",
+                "Trip",
+                "Bag"
+            ]
+        },
+        {
+            "Id": "Sushi",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Japan",
+                "Asiatic",
+                "Roll",
+                "Salmon",
+                "Food"
+            ]
+        },
+        {
+            "Id": "SwampTree",
+            "TypeIds": [
+                "Chopped2",
+                "Large1",
+                "Medium1",
+                "Medium2"
+            ],
+            "Tags": [
+                "Forest",
+                "Vegetation"
+            ]
+        },
+        {
+            "Id": "SwissCheese",
+            "TypeIds": [
+                "Slice"
+            ],
+            "Tags": [
+                "Food",
+                "Cow"
+            ]
+        },
+        {
+            "Id": "TallTrafficLight",
+            "TypeIds": [
+                "Double",
+                "DoubleOposite",
+                "Single"
+            ],
+            "Tags": [
+                "City",
+                "Street",
+                "Road",
+                "Semaphor"
+            ]
+        },
+        {
+            "Id": "TelephoneBooth",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Phone",
+                "City",
+                "Street"
+            ]
+        },
+        {
+            "Id": "TelephoneCabin",
+            "TypeIds": [
+                "Closed"
+            ],
+            "Tags": [
+                "Royal",
+                "Street",
+                "Phone"
+            ]
+        },
+        {
+            "Id": "ThinTree",
+            "TypeIds": [
+                "Medium1",
+                "Medium2"
+            ],
+            "Tags": [
+                "Forest",
+                "Vegetation"
+            ]
+        },
+        {
+            "Id": "Tomato",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Fruit",
+                "Vegetable"
+            ]
+        },
+        {
+            "Id": "Torch",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Tool",
+                "Fire",
+                "Flame",
+                "Light"
+            ]
+        },
+        {
+            "Id": "TrafficCone",
+            "TypeIds": [
+                "LargeBase",
+                "Regular"
+            ],
+            "Tags": [
+                "City",
+                "Street",
+                "Road"
+            ]
+        },
+        {
+            "Id": "TrafficSignRound",
+            "TypeIds": [
+                "Regular",
+                "Sign"
+            ],
+            "Tags": [
+                "City",
+                "Street",
+                "Road"
+            ]
+        },
+        {
+            "Id": "TrainTrafficLight",
+            "TypeIds": [
+                "Double"
+            ],
+            "Tags": [
+                "City",
+                "Road",
+                "Street"
+            ]
+        },
+        {
+            "Id": "TravelBackpack",
+            "TypeIds": [
+                "Rolled"
+            ],
+            "Tags": [
+                "Bag",
+                "Camp",
+                "Trip",
+                "Luggage"
+            ]
+        },
+        {
+            "Id": "TravelBag",
+            "TypeIds": [
+                "Long"
+            ],
+            "Tags": [
+                "Luggage",
+                "Travel"
+            ]
+        },
+        {
+            "Id": "TriTrafficSign",
+            "TypeIds": [
+                "Regular",
+                "Sign"
+            ],
+            "Tags": [
+                "Road",
+                "Street",
+                "City"
+            ]
+        },
+        {
+            "Id": "TunaCan",
+            "TypeIds": [
+                "Opened",
+                "Regular"
+            ],
+            "Tags": [
+                "Food",
+                "Fish"
+            ]
+        },
+        {
+            "Id": "VendingMachine",
+            "TypeIds": [
+                "Empty",
+                "Full",
+                "Labeled"
+            ],
+            "Tags": [
+                "City",
+                "Sidewalk",
+                "Food"
+            ]
+        },
+        {
+            "Id": "VintageLightPole",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Light",
+                "Pole",
+                "Post"
+            ]
+        },
+        {
+            "Id": "WaterBottle",
+            "TypeIds": [
+                "Branded",
+                "Bumpy",
+                "Smooth"
+            ],
+            "Tags": [
+                "Drink",
+                "Plastic"
+            ]
+        },
+        {
+            "Id": "WaterJar",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Dispenser",
+                "Flower"
+            ]
+        },
+        {
+            "Id": "Watermelon",
+            "TypeIds": [
+                "Slice"
+            ],
+            "Tags": [
+                "Food",
+                "Fruit"
+            ]
+        },
+        {
+            "Id": "Well",
+            "TypeIds": [
+                "Empty",
+                "Filled"
+            ],
+            "Tags": []
+        },
+        {
+            "Id": "WheeledTrashcan",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Trash",
+                "Litter",
+                "Bin",
+                "City",
+                "Street"
+            ]
+        },
+        {
+            "Id": "WineBottle",
+            "TypeIds": [
+                "Regular"
+            ],
+            "Tags": [
+                "Drink",
+                "Glass",
+                "Alcohol",
+                "Liqour"
+            ]
+        },
+        {
+            "Id": "WineGlass",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Cup",
+                "Calice"
+            ]
+        },
+        {
+            "Id": "WoodBarrel",
+            "TypeIds": [
+                "Curved",
+                "ExtraCurved",
+                "Straight"
+            ],
+            "Tags": [
+                "Ship",
+                "Pirate",
+                "Wine"
+            ]
+        },
+        {
+            "Id": "WoodBarricade",
+            "TypeIds": [
+                "Damaged",
+                "Normal",
+                "Simple"
+            ],
+            "Tags": [
+                "Barrier",
+                "Fort"
+            ]
+        },
+        {
+            "Id": "WoodCrate",
+            "TypeIds": [
+                "Large",
+                "Regular"
+            ],
+            "Tags": [
+                "Package",
+                "Storage",
+                "Delivery"
+            ]
+        },
+        {
+            "Id": "WoodDirectionSign",
+            "TypeIds": [
+                "Double",
+                "Single"
+            ],
+            "Tags": [
+                "Path",
+                "Village"
+            ]
+        },
+        {
+            "Id": "WoodRoundFence",
+            "TypeIds": [
+                "Damaged",
+                "Damaged2",
+                "Damaged3",
+                "Damaged4",
+                "Half",
+                "Pillar",
+                "Single"
+            ],
+            "Tags": [
+                "Path",
+                "Barrier"
+            ]
+        },
+        {
+            "Id": "WoodSemiRoundFence",
+            "TypeIds": [
+                "Damaged",
+                "Damaged2",
+                "Damaged3",
+                "Half",
+                "Pillar",
+                "Single"
+            ],
+            "Tags": [
+                "Path",
+                "Barrier"
+            ]
+        },
+        {
+            "Id": "WoodSpikeFence",
+            "TypeIds": [
+                "Damaged",
+                "Damaged2",
+                "Half",
+                "Pillar",
+                "Single"
+            ],
+            "Tags": [
+                "Path",
+                "House",
+                "Barrier"
+            ]
+        },
+        {
+            "Id": "WoodStackFence",
+            "TypeIds": [
+                "Single",
+                "Single2",
+                "Single3"
+            ],
+            "Tags": [
+                "Path",
+                "Barrier"
+            ]
+        },
+        {
+            "Id": "WoodStraightFence",
+            "TypeIds": [
+                "Damaged",
+                "Damaged2",
+                "Damaged3",
+                "Half",
+                "Pillar",
+                "Single"
+            ],
+            "Tags": [
+                "Path",
+                "Barrier",
+                "House"
+            ]
+        },
+        {
+            "Id": "WoodTable",
+            "TypeIds": [
+                "Regular",
+                "Reinforced"
+            ],
+            "Tags": []
+        },
+        {
+            "Id": "WorkBag",
+            "TypeIds": [
+                "Medium"
+            ],
+            "Tags": [
+                "Luggage",
+                "Work",
+                "School",
+                "Backpack"
+            ]
+        }
+    ]
 }
